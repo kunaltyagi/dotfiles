@@ -32,7 +32,7 @@ Reverse="$(tput rev)"
 #PS1 for git
 #export PS1='\u@\h:\w:$(__git_ps1 "[%s]")\$ '
 #a fancier one
-export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s]')\[$Reset$LightGrey\][\d \t]\[$Reset\]\n\`if [ $? -eq 0 ]; then echo \[$Green\]':)' ; else echo \[$Red\]':('; fi\`\[$Reset\]$ "
+export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple\]\w\[$Reset$LightGrey\][\d \t]\[$Reset\]\n\[$Reset$LightRed\]\$(__git_ps1 '[%s]')\`if [ \$? -eq 0 ]; then echo \[$Green\]':)' ; else echo \[$Red\]':('; fi\`\[$Reset\]$ "
 
 #PS2 (in long terminal statements, after pressing /)
 export PS2="--> "
