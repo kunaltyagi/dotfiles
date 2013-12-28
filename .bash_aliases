@@ -1,3 +1,5 @@
+#! /bin/bash
+
 catkin_make_new()
 {
     x=$PWD;
@@ -33,7 +35,6 @@ wificonnect()
 
 alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text"
 alias arduino="~/programs/arduino-0023/arduino"
-alias terminator="terminator -l Coding"
 alias ps="ps aux"
 alias resource="source ~/.bashrc"
 alias cm="catkin_make_new"
@@ -43,8 +44,53 @@ alias windows='sudo mount -t ntfs-3g -o ro /dev/sda3/ /media/Alien\ OS/'
 alias bcd='cd ~/.bin/.bin'
 alias matsya="terminator -l ros -p sun"
 alias ros="terminator -l ros"
-alias cdl="cdl"
 alias cl="clear; l"
 alias view_installed="dpkg --list | awk '{print $2}' | tail -n +6"
 alias utar="tar -zxvf"
 alias check_temp="sudo sensors ; sudo hddtemp /dev/sda"
+alias kil="kill %%"
+alias random_alpha="apg"
+
+azsdcd_tmp_errorProne()
+{
+#    temperature_current[]  0: pci_adapter, 1: physical, 2: hdd, 3...6: core
+#    temperature_high[]     similar scheme
+#    temperature_critical[]     similar scheme
+    temperature_current[0]=$(sensors | grep high | head -n 1 | awk '{print $2}' | grep -o -E "[0-9]+\.*[0-9]*")
+    temperature_high[0]=$(sensors | grep high | head -n 1 | awk '{print $5}' | grep -o -E "[0-9]+\.*[0-9]*")
+    temperature_critical[0]=$(sensors | grep high | head -n 1 | awk '{print $8}' | grep -o -E "[0-9]+\.*[0-9]*")
+
+    temperature_current[1]=$(sensors | grep high | tail -n +2 | head -n 1 | awk '{print $4}' | grep -o -E "[0-9]+\.*[0-9]*")
+    temperature_high[1]=$(sensors | grep high | tail -n +2 | head -n 1 | awk '{print $7}' | grep -o -E "[0-9]+\.*[0-9]*")
+    temperature_critical[1]=$(sensors | grep high | tail -n +2 | head -n 1 | awk '{print $10}' | grep -o -E "[0-9]+\.*[0-9]*")
+
+    temperature_current[2]=$(sudo hddtemp /dev/sda | awk '{print $3}' | grep -o -E "[0-9]+\.*[0-9]*");
+    temperature_high[2]=0;
+    temperature_critical[2]=0;
+
+    for i in `seq 3 6`; do
+        temperature_current[$i]=$(sensors | grep high | tail -n +$i | head -n 1 | awk '{print $3}' | grep -o -E "[0-9]+\.*[0-9]*")
+        temperature_high[$i]=$(sensors | grep high | tail -n +$i | head -n 1 | awk '{print $6}' | grep -o -E "[0-9]+\.*[0-9]*")
+        temperature_critical[$i]=$(sensors | grep high | tail -n +$i | head -n 1 | awk '{print $9}' | grep -o -E "[0-9]+\.*[0-9]*")
+    done
+
+    for i in `seq 0 6`; do
+        if [ ${temperature_critical[$i]} -gt 0 ]; then
+            if [ ${temperature_current[$i]} -gt $( ${temperature_high[$i]}/2 + ${temperature_critical[$i]}/2 )]; then
+                zenity --question --text "High temperatures detected. Suspend?"
+                ans=$?
+                if [ ans -eq 0 ]; then
+                    zenity --info --text "System will suspend now!"
+                    sudo suspend
+                else
+                    zenity --info --text "Syatem may shut down anytime now, unless lower core temperatures are achieved"
+                fi
+            fi
+            if [ $( ${temperature_current[$i]} + 2 ) -gt ${temperature_critical[$i]} ]; then
+                zenity --error --text "System suspending due to thermal issues"
+                sudo suspend
+            fi
+        fi
+    done
+
+}
