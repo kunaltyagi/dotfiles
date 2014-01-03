@@ -49,8 +49,7 @@ alias view_installed="dpkg --list | awk '{print $2}' | tail -n +6"
 alias utar="tar -zxvf"
 alias check_temp="sudo sensors ; sudo hddtemp /dev/sda"
 alias kil="kill %%"
-alias random="apg"
-alias start_server="python -m SimpleHTTPServer"
+alias random_alpha="apg"
 
 azsdcd_tmp_errorProne()
 {
