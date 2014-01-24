@@ -46,10 +46,13 @@ alias matsya="terminator -l ros -p sun"
 alias ros="terminator -l ros"
 alias cl="clear; l"
 alias view_installed="dpkg --list | awk '{print $2}' | tail -n +6"
-alias utar="tar -zxvf"
+alias utar="tar -zxvf $@"
 alias check_temp="sudo sensors ; sudo hddtemp /dev/sda"
 alias kil="kill %%"
 alias random_alpha="apg"
+alias shortcut="sudo ln -s $@"
+alias matlab="sudo /usr/local/MATLAB/R2012a/bin/matlab"
+alias temperature="sensors|tail -n +7|head -n 1|awk '{print $4}'|grep -o -E [0-9]+\.[0-9]+"
 
 azsdcd_tmp_errorProne()
 {
