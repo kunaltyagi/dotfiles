@@ -32,6 +32,12 @@ wificonnect()
         fi
     done
 }
+study_mode()
+{
+    x=$@;
+    cd ~/workspace/studies;
+    if [ $x ]; then cd $x; fi;
+}
 
 alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text"
 alias arduino="~/programs/arduino-0023/arduino"
@@ -53,7 +59,7 @@ alias random_alpha="apg"
 alias shortcut="sudo ln -s $@"
 alias matlab="sudo /usr/local/MATLAB/R2012a/bin/matlab"
 alias temperature="sensors|tail -n +7|head -n 1|awk '{print $4}'|grep -o -E [0-9]+\.[0-9]+"
-alias study="cd ~/workspace/studies"
+alias study="study_mode"
 
 azsdcd_tmp_errorProne()
 {
