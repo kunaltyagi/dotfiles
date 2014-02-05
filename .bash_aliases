@@ -39,7 +39,7 @@ study_mode()
     if [ $x ]; then cd $x; fi;
 }
 
-alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text"
+alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text & > /dev/null"
 alias arduino="~/programs/arduino-0023/arduino"
 alias ps="ps aux"
 alias resource="source ~/.bashrc"
@@ -58,7 +58,7 @@ alias kil="kill %%"
 alias random_alpha="apg"
 alias shortcut="sudo ln -s $@"
 alias matlab="sudo /usr/local/MATLAB/R2012a/bin/matlab"
-alias temperature="sensors|tail -n +7|head -n 1|awk '{print $4}'|grep -o -E [0-9]+\.[0-9]+"
+alias temperature="sensors|tail -n +7|head -n 1|awk '{print $4}'|grep -o -E [0-9]+\.[0-9]+|head -n 1"
 alias study="study_mode"
 
 azsdcd_tmp_errorProne()
