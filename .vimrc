@@ -3,7 +3,6 @@
 "set columns=80
 set wrapmargin=8
 set ruler
-set number
 "
 
 syntax on
@@ -16,7 +15,7 @@ set autoindent
 set expandtab
 set smartindent
 set number
-set pastetoggle=<F2>
+set pastetoggle=<F3>
 set hidden
 set ignorecase
 set smartcase
@@ -69,6 +68,8 @@ iabbrev ssig -- <cr>Kunal Tyagi<cr>tyagi.kunal@live.com
 iabbrev ssign Kunal Tyagi "tyagi.kunal@live.com"
 iabbrev @@ thekunaltyagi@yahoo.com
 
+" Remove trailing white spaces in files
+autocmd FileType c,cpp,java,php autocmd BufWritePre <buffer> :%s/\s\+$//e
 " End Update
 
 " End .vimrc
