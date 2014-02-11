@@ -61,6 +61,7 @@ alias matlab="sudo /usr/local/MATLAB/R2012a/bin/matlab"
 alias temperature="sensors|tail -n +7|head -n 1|awk '{print $4}'|grep -o -E [0-9]+\.[0-9]+|head -n 1"
 alias study="study_mode"
 alias delete="trash-rm"
+alias list_disks="lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL" #run as sudo
 
 azsdcd_tmp_errorProne()
 {
