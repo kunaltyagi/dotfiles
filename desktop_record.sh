@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 
 
 # This script record your desktop. It calculates your screen resolution and saves
