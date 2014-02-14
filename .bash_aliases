@@ -38,6 +38,12 @@ study_mode()
     cd ~/workspace/studies;
     if [ $x ]; then cd $x; fi;
 }
+ssh_cd()
+{
+t="${!#}"   #store the args to the command
+com=("ssh" "-t" "${@:1:$(($#-1))}" "${t%:*}" "cd ${t##*:}; \$SHELL -l")
+"${com[@]}"
+}
 
 alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text & > /dev/null"
 alias arduino="~/programs/arduino-0023/arduino"
@@ -62,6 +68,8 @@ alias temperature="sensors|tail -n +7|head -n 1|awk '{print $4}'|grep -o -E [0-9
 alias study="study_mode"
 alias delete="trash-rm"
 alias list_disks="lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL" #run as sudo
+alias where_am_i="echo "$(tput setaf 2)$(whoami)$(tput setaf 0)@$(tput setaf 3)$(hostname)$(tput setaf 0):$(tput setaf 6)$(pwd)$(tput sgr0)" "
+alias sshcd="ssh_cd"
 
 azsdcd_tmp_errorProne()
 {
