@@ -1,5 +1,17 @@
 [user]
-	name = kunaltyagi
-	email = kunal.tyagi.3.1994@gmail.com
+	name  = kunaltyagi
+	email = tyagi.kunal@live.com
 [credential]
-	helper = cache
+    helper = cache
+[alias]
+    hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+    type = cat-file -t
+    dump = cat-file -p
+    ch   = checkout
+    co   = commit
+    st   = status
+    br   = branch
+# create a read-only server over a network
+    server = daemon --verbose --export-all --base-path=.
+#creare a very bas unencrypted server
+    bad_server = daemon --verbose --export-all --base-path=. --enable=receive-pack ;use git://localhost/repo_name.git as address
