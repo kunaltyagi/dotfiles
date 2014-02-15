@@ -1,0 +1,28 @@
+[extensions]
+qcrecord = ~/git/crecord
+mqext = ~/git/mqext
+qimportbz = ~/git/qimportbz
+bzexport = ~/git/bzexport
+trychooser = ~/git/trychooser/trychooser
+
+[paths]
+central = https://hg.mozilla.org/mozilla-central
+central-push = ssh://hg.mozilla.org/mozilla-central
+
+inbound = https://hg.mozilla.org/integration/mozilla-inbound
+inbound-push = ssh://hg.mozilla.org/integration/mozilla-inbound
+
+aurora = https://hg.mozilla.org/releases/mozilla-aurora
+aurora-push = ssh://hg.mozilla.org/releases/mozilla-aurora
+
+beta = https://hg.mozilla.org/releases/mozilla-beta
+beta-push = ssh://hg.mozilla.org/releases/mozilla-beta
+
+release = http://hg.mozilla.org/releases/mozilla-release
+
+[alias]
+pulltree = !$HG pull $1 && hg bookmark -f -r `$HG identify -r default $1` $1
+pushtree = push -r $1 $1-push
+pullproject = !$HG pull https://hg.mozilla.org/projects/$1 && hg bookmark -f -r `$HG identify -r default https://hg.mozilla.org/projects/$1` $1
+pushproject = push -r $1 ssh://hg.mozilla.org/projects/$1
+pullall = !$HG pulltree release && $HG pulltree beta && $HG pulltree aurora && $HG pulltree central && $HG pulltree inbound
