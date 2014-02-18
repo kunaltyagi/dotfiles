@@ -70,6 +70,7 @@ alias delete="trash-rm"
 alias list_disks="lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL" #run as sudo
 alias where_am_i="echo "$(tput setaf 2)$(whoami)$(tput setaf 0)@$(tput setaf 3)$(hostname)$(tput setaf 0):$(tput setaf 6)$(pwd)$(tput sgr0)" "
 alias sshcd="ssh_cd"
+alias to_pdf="soffice -invisible -nologo -convert-to pdf $@" #give filename as parameter, should be openable by libreoffice :P
 
 azsdcd_tmp_errorProne()
 {
