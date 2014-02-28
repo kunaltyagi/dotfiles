@@ -1,0 +1,22 @@
+Host matsya
+    Hostname 192.168.2.4
+    User auv
+    IdentityFile ~/.ssh/id_rsa
+Host bhaskar
+    Hostname 192.168.2.9
+    User bhasky
+    IdentityFile ~/.ssh/bhasky
+Host anmol
+    Hostname 192.168.2.13
+    User anmol
+    IdentityFile ~/.ssh/anmol
+Host nilesh
+    Hostname 192.168.2.2
+    User nilesh
+    IdentityFile ~/.ssh/id_rsa
+Host jagadeesh
+    Hostname 192.168.2.44
+    User jagadeesh
+    IdentityFile ~/.ssh/jagadeesh
+Host bitbucket.org
+    IdentityFile ~/.ssh/id_rsa
