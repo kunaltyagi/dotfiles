@@ -72,6 +72,8 @@ alias where_am_i="echo "$(tput setaf 2)$(whoami)$(tput setaf 0)@$(tput setaf 3)$
 alias sshcd="ssh_cd"
 alias to_pdf="soffice --invisible --nologo -convert-to pdf $@" #give filename as parameter, should be openable by libreoffice :P
 alias copy_to_buffer="xclip -sel clip < $@"
+alias start_HTTP_server="python -m SimpleHTTPServer"
+alias suspend="dbus-send --system --print-reply --dest="org.freedesktop.UPower" /org/freedesktop/UPower org.freedesktop.UPower.Suspend"
 
 azsdcd_tmp_errorProne()
 {
