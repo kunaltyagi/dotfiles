@@ -118,8 +118,9 @@ if ! shopt -oq posix; then
 fi
 
 #Proxy settings
-
-source ~/.git-completion.bash
+if [ -f ~/.git-completion.bash ]; then
+  source ~/.git-completion.bash
+fi
 
 #Git promt change
 if [ -f ~/.bash_prompt.sh ]; then
