@@ -14,6 +14,10 @@ cdl()
     clear;
     l;
 }
+notify_new()
+{
+    $@ && notify-send -i face-smile "Done. And a success" || notify-send -i face-embarrassed "Oops. Was it supposed to happen??";
+}
 alias localip="ifconfig | sed -En 's/127.0.0.1//;s/.*inet (addr:)?(([0-9]*\.){3}[0-9]*).*/\2/p'"
 wificonnect()
 {
@@ -74,6 +78,9 @@ alias to_pdf="soffice --invisible --nologo -convert-to pdf $@" #give filename as
 alias copy_to_buffer="xclip -sel clip < $@"
 alias start_HTTP_server="python -m SimpleHTTPServer"
 alias suspend="dbus-send --system --print-reply --dest="org.freedesktop.UPower" /org/freedesktop/UPower org.freedesktop.UPower.Suspend"
+alias notify="notify_new"
+alias antlr4='java -jar /usr/local/lib/antlr-4.2-complete.jar'
+alias grun='java org.antlr.v4.runtime.misc.TestRig'
 
 azsdcd_tmp_errorProne()
 {

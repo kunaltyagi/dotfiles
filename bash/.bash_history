@@ -1,1513 +1,1528 @@
-İVÚ-Ş|‚pô†> K -Öï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Â\•Í….äx¾™™–“ï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âîˆxt¯}0
-Èi^¥sï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âß(TkİÃ@év±%ˆLkõHï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Â‘•“~ÖÖ×ve•ÎLJï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âˆ&…ÔOˆn‚õ×ú¿ï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Â‹ÑıˆŠ¼0OV)ÂX±@+ï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Âï”t8xwc5l¯ğ*Õ%Â'?zÿÍyùÁúSÌqš
-wKw;«©qmJ+šp¸ğiLTÄÑq2gJaÇòñ¥F£ s£Ñlüì¥ßøQìôáğÈ*W¶ÛÃ<r \•_Ï¸01ğ|¡!•¢NX“Ò¹áğæ¾)s;ÏK	¤á$ àŞ¸Ü^Ób½'İHİ¨&E{Vïğ;ÓîãŒ_.,)E\¬EÅ½«ĞØ-$B×qï¨4rEöà^´„¦ÇSÂØ
-¾«Z|m~ì\*±**ƒƒ‰Q_zæ:öxù¨“çšÂ4´·šT¹S#U5W¯V‘\ÉÖûû„àä¹/bæYèBï656ªaÈ~”ûısû‡ª†Ë91¥‹½™ÈsÕëÜJÛˆ9Ôbá—ñ*è?Ê¤‘&1RœÜÀIà»I	…Y)èœBF“vYC|5ŞŸdS§•pÕY°Hƒ…şütšÂ€²Çä°ç0›FpÉ7ÇÏĞühü"’b±ª,›HdIÜŒÙ=ªúŸ8ÂØÆõØV8Ñ×Uâ?ç¼îWK‘ÈÀÀ
-¿øÏÓõæJ«Èf‚T‚ÿw5+š^U«S5CˆE¨H5İ´œç	@X[ÃÊm"›-ÃˆŒ­PÎ¸Û$C3Š.f£"Ï=âû­hTí¸~„8Ë‹2¯F|Z/_ª<Ğ†PİF’Õ;÷‡…Ô«Oê´LH`] Ô–ªfÚIgşğ¼™óô1/®Fkğñtª#aƒññÈs§ƒ9Uù,5‡$ofNÎZ‘É¤¿(×øªZã…ôgÉL/A><{Å	]„C¿œ”(’•¸şfÈe];µ¸ Á8R–&vø¹^ÀÍFÄÔÙ©·óÄü´Õ¸µşI†=‚Gà¹cÌs\ş¥>K<s¥3„F™pMÕ¥øt»—eÕ­wÆ£%fˆ²gËåš–<@ g<RF+æïëÜ1ÈX‚õÒî¿'[Lk¼ÚP§‘‹è¯J¶1¬)pŠ
-«¯ıûC|T¶üx¶²…ùEiØn?É«ä&q/­°`şôÅ}x¡ˆmõn4{b¾–~gsüŒ	*FùÙ(0%…lã^€¹sj’°±
-’}ÊZ¶Ñ²:º*Å@‡Ê|‡yÒ¢/ ÎÚÀ‰Fì%IñkÈ¹÷ø.‚Ak;Œq<+ŸG³dméËş¦ºıºK˜‰q"NB;›DávÉ1uıš÷NïéÎ##b¦™ã\F}äo­€Zh	¸‹ÿ»vOŸ6#—Üœ8Ãİ…5Ö mõÄ½gcF˜ø¶èİÈ¯áª‡KU²â¬ÌğŞ´CÜ[ÛŒA%t³yÌÇœ‡	ŸÀşè¼9Â]iIhi6v5(8”Pl6PR%üVİrøó¬KØÅ¤éQô9²ÌªÉ5ÕÌh#Â…Ò…,üç®¼7ÿìdÚœ5ò¼Š!’à+µ4éh"ÍFóYë„w‚ÌÓA1Ù¹ğ«ñyÚ²DtS~Í,³aæéæşc5Ù~Ş³ƒz˜}t(OôOblOƒL ™‰ºÂô0ODFÒõÌ­Ò‡ª3Î¬èãÎW†Õâ1ŒÀF0¢CÕ›ô¶™€®EèŞ¬å‹BEH™ñÃ{ÿ´“@9­éño
-}Í,8â¡*ö¥²u[Úæ0TQ­%¢3«¥\æà}•~ÿÀ0ÌÔBUÙU7»Œ&HÒ=Õ·¤zíÔ=4eĞı‘¯ ê9ÜéÇAš÷Îº
-äá°+¿·‘R¤^[„#(ó³aãñÓƒöÁ–Ú"Íb2·wî¢µsÄæ)p”8ìWäè+BYˆº›œÃ=Şöhëç±X  í#‘íA|W;‰.VLo‡Ìm¾!å°Ë}…ÔCfÂ€¬°…Ô´ß˜um™›IhñOY@Lµi òF|î„O¼=íì;+-®bGGm|¨€6¬¸â|å·œD’U…}S
-İ]¸Ìæ]„¸r	&0™ZlµÿDã$¥p_=tijûÂwD=N7FˆMc•·¨(¶?zïæ¨0€CÆÓ½å6hïRd²z_à ´Ü´ø<.+O´Œ[–\…§fÍuşÉV7à6YÿCÿ~±Û/Œ!CŞf–¿côv#‚¦9­Ü¦ß+ P÷ÆªR-¥k‚ŞzAÎÀîi#«ÅÖ®â¸³EˆäáĞ¹Ó“g×Â	'|ŒÖš½NƒƒÉwÀ(±¥­—ñ.†Xäâcèç¾`³êÇ?‰²Vëö³¶G«3u)÷æõü™¶Wœô‰÷ÃéÄY.@WÍ”•Æì-#'úG1âÛ‡Ñ.aÈˆç”U@HàöAĞÙÍ²şLUÕöØÁüzZ–#¦Mà˜'F’E¡ÄãåĞL9FEB9Ş|MY:Éuw_	^”<†·X„40,”rJ—jqç&”!-®DÌìÓƒÃn[Øë|æOz8x=ÜHìÕÇ€õ-¾@@= Šôî‹õ‹Ôªï_Á€í2‰è E,i“9|1Ê´õ»õNXuéäe³şØ<|?V@z-$^^ì« Èä÷hÎmÏTYl,šÖ–&ü4xeĞ˜”K”«1³–Š˜é´S·ú]–zî»œè6ä:"?>[L¨ˆîä­‹ñòñtîôãZÙ6GŞ•FÛv‡ş¸œšQsgX™p*FáØ¯˜Gtğ0‘$r™*Ëš™˜Ä_'ãsÃèFL5	2H6*!1±
-O÷ÖğÉÇ*(èß)×sÅz0g»¿³Ü¹Øå! €òå­(àÁã‘E,›q²ÿ•CÜ2RçtÄêô.›"c“Iµ2o¾'¿`	*H	µÂlñ®?˜Q
-×¼ùñg…A¨I‚ºã¶¸…|äB»¯,=Î¥Öexit
-ki
-top
-sudo apt-get install lm-sensors 
-sudo sensors-detect
-sudo service module-init-tools start
+
+notify-send -i stock-glasses "I am wearing glasses"
+notify-send -i stock-smiley-12 "I am wearing glasses"
+notify-send -i stock_smiley-12 "I am wearing glasses"
+notify-send -i stock_smiley-12.png "I am wearing glasses"
+cd
+cd /usr/share/
+cd ic
+cd icons/
+l
+l oxygen/
+l oxygen/32x32/
+l oxygen/32x32/apps/
+nautilus ./
+notify-send -i face-laugh "sd"
+notify-send -i face-embarassed "sd"
+notify-send -i face-embarrassed "sd"
+1 && notify-send -i face-laugh "sd" || notify-send -i face-embarrassed "sd"
+1 && notify-send -i face-laugh "sd" || notify-send -i face-embarrassed "failed"
+echo 1 && notify-send -i face-laugh "success" || notify-send -i face-embarrassed "failed"
+echo 1 && notify-send -i face-smile "Done. And a success" || notify-send -i face-embarrassed "Oops. Was it supposed to happen??"
+man notify-send 
+vim /home/kunaltyagi/.bash_aliases
+echo 1 && notify-send -i face-smile "Done. And a success" || notify-send -i face-embarrassed "Oops. Was it supposed to happen??" -t 1500
+1 && notify-send -i face-smile "Done. And a success" || notify-send -i face-embarrassed "Oops. Was it supposed to happen??" -t 1500
+man notify-send 
+1 && notify-send -i face-smile "Done. And a success" || notify-send -i face-embarrassed "Oops. Was it supposed to happen??" --expire-time=1500
+1 && notify-send -i face-smile "Done. And a success" || notify-send -i face-embarrassed --expire-time=1500 "Oops. Was it supposed to happen??" 
+1 && notify-send -i face-smile "Done. And a success" || notify-send --expire-time=1500 -i face-embarrassed "Oops. Was it supposed to happen??" 
+vim /home/kunaltyagi/.bash_aliases
+resource
+cd
+cp dotfiles/bash/.bashrc ./
+resource
+notify cd
+clear
+man sleep
+roscd auv_navigation/
+vim src/execution_state/execution_state.cpp 
+git co -am "sleep modified"
+notify git push ssh_origin
+git push ssh_origin 
+vim /home/kunaltyagi/.bash_aliases
+resource
+vim /home/kunaltyagi/.bash_aliases
+resource
+vim /home/kunaltyagi/.bash_aliases
+resource
+vim /home/kunaltyagi/.bash_aliases
+resource
+vim /home/kunaltyagi/.bash_aliases
+screensaver 
+vim /home/kunaltyagi/.bash_aliases
+sudo list_disks 
+wrapper.py ssh
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./wificonnect.sh 
+kill %%
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
 sensors
-hddtemp /dev/sda
-sudo hddtemp /dev/sda
-vim /home/kunaltyagi/.bash_aliases 
-exit
-check_temp 
-exit
-vim /home/kunaltyagi/.bash_aliases 
-exit
-sudo apt-get install zenity
-exit
-vim /home/kunaltyagi/.bash_aliases 
-resource
-man gksudo
-gksudo -m "Enter root password to find the sensor temperatures" check_temp
-gksudo check_temp
-check_temp
-zenity --question --text =Do u wish to proceed?"
-zenity --question --text ="Do u wish to proceed?"
-zenity --question --text="Do u wish to proceed?"
-echo zenity --question --text="Do u wish to proceed?"
-echo $(zenity --question --text="Do u wish to proceed?")
-man zenity
-find $HOME -name '*.ps' | zenity --progress --pulsate
-find $HOME -name '*.py' | zenity --progress --pulsate
-find $HOME -name '*.cpp' | zenity --progress --pulsate
-find $HOME -name '*.cpp'
-clear
-exit
-cd dotfiles/
+temperature 
+wrapper.py  vmission buoy_1
+wrapper.py d3
+wrapper.py  ssh
+roscd auv_hw_comm/
+cd ..
+l
+cd auv_imu_driver/
+l
+cd src/
+l
+cd quaternion_to_rpy/
+l
+vim main.cpp 
+cm
+git co -am "ros ok test added in quaternion to rpy node"
+git fetch ssh_origin 
+git merge ssh_origin/torpedo_test 
+git hist
+l
+cd ..
+l
+cd ..
+l
+cd ..
+l
+chmod -R 664 *
+ll
+sudo chmod -R 664 *
+ll
+sudo chmod -R 664 .*
+sudo chmod -R 777 .*
+sudo chmod -R 777 *
+l
+git stash
+cd ..
+c ..
+cd
+cd catkin_ws/
+l
+cd src/
+l
+ll
+sudo chmod 775 src -R
+l
+cd src/
+l
+ll
+cd robosub/
+l
+ll
+git st
+git stash
+l auv_vision
+./auv_vision/mask_back.png 
+ll
+sudo chmod 775 README.md 
+ll
+sudo chmod 664 README.md 
+ll
 vim README.md 
-cd ..
-vim .bash_aliases 
-resource
-exit
-rm Ubuntu\ One/Music/ChakDeIndia_EkHockeyDoongiRakhKe.mp3 
-exit
-check_temp
-exit
-check_temp
-cdl
-cl
-exit
-check_temp 
-exit
-zenity --question --text "Suspend?"
-echo $?
-zenity --question --text "Suspend?"
-echo $?
-zenity --question --text "Suspend?"
-echo $?
-man zenity
-exit
-sudo aot-get install apg
-sudo apt-get install apg
-apg
-clear
-apg
-apg -a 1
-apg -a 2
-apg -s
-apg
-apg -a 1 -m 64 -n 5
-apg -m 64 -n 5
-zenity
-man zenity
-zenity --question --text "Suspend?"
-echo $(zenity --question --text "Suspend?")
-echo `zenity --question --text "Suspend?"`
-$0
-exit
-resource
-vim /home/kunaltyagi/.bash_aliases 
-roslaunch matsya_gazebo matsya.launch
-resource
-&
-resource
-roscore
-resource
-resource
-resource
-vim /home/kunaltyagi/.bash_aliases
-resource
-vim tmp
+ll
+git hist
+git reset c502396
 l
-vim tmp
-cd tmp
+git stash
 l
-cd npm-26171-QbgETfd-/
+git st
+tree
+chmod 664 TODO.md 
 l
-cd 1387748069595-0.19958665873855352/
+git co -am "file modes fixed"
+git hist
 l
-;cd package/
+man touch
+touch * -c
 l
-cd package/
+git fetch ssh_origin 
+git hist
+git ch ssh_origin/torpedo_test auv_navigation/src/scan_state/scan_motions/
+cd auv_navigation/src/scan_state/scan_motions/
+l
+vim buoy_1.scan 
+chmod 644 *
 l
 cd ..
-rm -fr tmp
-resource
-Unix=('Debian' 'Red hat' 'Ubuntu' 'Suse' 'Fedora' 'UTS' 'OpenLinux');
-Shell=('bash' 'csh' 'jsh' 'rsh' 'ksh' 'rc' 'tcsh');
-Unix=("${Unix[@]}" "${Shell[@]}")
-echo ${Unix[8]}
-sensors | grep high | tail -n +3 | awk '{print $9}' | grep -o -E "[0-9]*\.[0-9]*"
-unix=(sensors | grep high | tail -n +3 | awk '{print $9}' | grep -o -E "[0-9]*\.[0-9]*")
-unix=(`sensors | grep high | tail -n +3 | awk '{print $9}' | grep -o -E "[0-9]*\.[0-9]*"`)
-echo $unix
-unix=$(`sensors | grep high | tail -n +3 | awk '{print $9}' | grep -o -E "[0-9]*\.[0-9]*"`)
-unix=$(sensors | grep high | tail -n +3 | awk '{print $9}' | grep -o -E "[0-9]*\.[0-9]*")
-echo $unix
-man zenity 
-zenity --error --text "Suspeending due to thermal issues"
-zenity --error --text "Suspending due to thermal issues";echo "Done"
-exit
-exit
-check_temp 
-exit
-exit
-exit
-/opt/lampp/xampp security
-sudo /opt/lampp/xampp security
-cd /opt/lampp/
+cd ../../..
+git co -am "fixed scam motions"
+cd auv_navigation/src/transition_state/transition_motions/
+git ch ssh_origin/torpedo_test ./
 l
-vim mysql/
-sudo /opt/lampp/xampp security
-sudo /opt/lampp/xampp start
-sudo /opt/lampp/xampp security
-sudo /opt/lampp/xampp stop
-sudo /opt/lampp/xampp start
-exit
-vim /home/kunaltyagi/.bash_aliases
-man cut
+chmod 644 *
+git co -am "transition motions changed"
+l
+cd -
+l
+git ch ssh_origin/torpedo_test auv_navigation/src/execution_state/execution_state.cpp
+vim auv_navigation/src/execution_state/execution_state.cpp
+git co -am "somethings changed"
+cd auv_navigation/src/execution_state/
+l
+ll
+chmod 664 execution_state.cpp 
+ll
+git co -am "mode changed back"
+vim auv_navigation/src/execution_state/execution_state.cpp
+vim execution_state.cpp 
+git st
+git push ssh_origin 
+git host
+git hist
+l
+cd ..
+l
+git merge ssh_origin/torpedo_test 
+l
+git hist
+git reset fb99e9
+l
+git stash
+git st
+l
+git ch torpedo_test_temp
+git ch -b torpedo_test_temp
+git ch torpedo_test
+git ch torpedo_test_temp 
+l
+git ch torpedo_test
+l
+git merge ssh_origin/torpedo_test 
+l
+git merge torpedo_test_temp 
+l
+git ch torpedo_test
+git ch torpedo_test_temp 
+git branch -D torpedo_test
+git ch -b torpedo_test
+git push ssh_origin 
+git ch torpedo_test_temp 
+git push ssh_origin torpedo_test_temp 
+git ch torpedo_test
+l
+git merge ssh_origin/torpedo_test
+l
+git merge ssh_origin/torpedo_test_temp 
+l
+git ch torpedo_test_temp 
+l
+vim TODO.md 
+git co -am "changed"
+git add TODO.md 
+git co -am "changed todo temporary"
+git push ssh_origin 
+git ch torpedo_test
+l
+git fetch ssh_origin 
+git st
+git merge ssh_origin/torpedo_test
+git fetch ssh_origin 
+git hist
+git ch torpedo_test
+git ch torpedo_test_temp 
+git hist
+l
+git branch -D torpedo_test
+git push ssh_origin :torpedo_test
+git ch torpedo_test
+git push ssh_origin torpedo_test
+l
+git hist
+l
+vim auv_navigation/src/execution_state/execution_state.cpp 
+git ch torpedo_test_temp 
+l
+vim auv_navigation/src/execution_state/execution_state.cpp 
+git branch -D torpedo_test
+git ch -b torpedo_test
+vim auv_navigation/src/execution_state/execution_state.cpp 
+git push ssh_origin torpedo_test
+git hist
+vim auv_navigation/
+l auv_navigation/src/scan_state/scan_motions/
+l auv_navigation/src/transition_state/transition_
+l auv_navigation/src/transition_state/transition_motions/
+l auv_navigation/src/transition_state/transition_state.cpp 
+git push ssh_origin 
+git branch -D torpedo_test_temp 
+git hist
 clear
-cat ~/.bash_aliases | tail -n +67 | head -n 1
-sensors | grep high | tail -n +3 | awk '{print $3}' | grep -o -E "[0-9]*\.[0-9]*"
-Unix=$(sensors | grep high | tail -n +3 | awk '{print $3}' | grep -o -E "[0-9]*\.[0-9]*")
-echo $Unix 
-echo ${#Unix[@]}
-Unix=$(sensors | grep high | tail -n +3 | awk '{print $3}' | grep -o -E "[0-9]*\.[0-9]*" | tr " " "\n")
-echo ${#Unix[@]}
-sensors | grep high | tail -n +3 | awk '{print $3}' | grep -o -E "[0-9]*\.[0-9]*" | tr " " "\n"
-sensors | grep high | tail -n +3 | awk '{print $3}' | grep -o -E "[0-9]*\.[0-9]*"
-Unix=$(sensors | grep high | tail -n +3 | awk '{print $3}' | grep -o -E "[0-9]*\.[0-9]*" | tr " " "\r")
-echo ${#Unix[@]}
-check_temp 
+l
+git push ssh_origin :torpedo_test_temp
+l
+ll
+git ch hydro-devel 
+git ch temp_max
+git ch -b temp_max
+git merge ssh_origin/torpedo_test 
+l
+git ch torpedo_test 
+git stash
+git branch -D temp_max
+git co -am "asd"
+git ch hydro-devel 
+git branch -D temp_max
+git ch torpedo_test 
+wrapper.py ssh
+wrapper.py  ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py  ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapssh
+wrapper.py  ssh
+ssh matsya
+ssh matsya
+ssh matsya
+ssh matsya
+ssh matsya
+ssh matsya -X
+ssh matsya
+ssh matsya
+ssh matsya -X
+ssh matsya
+ssh matsya
+ssh matsya -X
+ssh matsya
+git branch -D temp_max
+temperature 
+./iitblogin.py 
+temperature 
+wrapper.py ssh
+while true; do wrapper.py ssh; done
+kill %%
+while true; do wrapper.py ssh; sleep 1; done
+ping 192.168.2.4
+ping 192.168.2.1
+ping 192.168.2.4
+while true; do wrapper.py ssh; sleep 1; done
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+exit
+git fetch matsya
+roscd auv_navigation/
+git fetch auv 
+git merge auv/torpedo_test 
+vim src/execution_state/execution_state.cpp 
+git co -am "Modified ros infos"
+ssh-copy-id auv
+ssh-copy-id matsya
+ifconfig
+vim src/execution_state/execution_state.cpp 
+git co -am "Added loop rate"
+git fetch auv
+vim src/execution_state/execution_state.cpp 
+git fetch auv
+git merge auv/torpedo_test 
+git stash
+git hist
+clear
+git merge auv/torpedo_test 
+vim src/execution_state/execution_state.cpp 
+git co -am "cleanup"
+vim src/execution_state/execution_state.cpp 
+git co -am "compiling success"
+cm
+clear
+roscd auv_navigation/
+cd ..
+git ch newArchitecture 
+l
+cd auv_states/
+l
+cd src/
+l
+vim execution_state/execution_state.cpp 
+sublime_text 
+temperature 
+./iitblogin.py 
+kill %%
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+cd workspace/gsoc/aerospaceresearch/matrix-solver/
+./final < input 
+vim matrix.h 
+make
+./final < input 
+vim matrix.h 
+make
+./final < input 
+vim matrix.h 
+./final < input 
+make
+./final < input 
+vim matrix.h 
+make
+./final < input 
+vim matrix.h 
+make
+./final < input 
+vim matrix.h 
+make
+./final < input 
+vim matrix.h 
+make
+./final < input 
+vim matrix.h 
+make
+./final < input \
+./final < input 
+vim matrix.h 
+make
+./final < input 
+vim matrix.h 
+make
+./final < input 
+vim matrix.h 
+make
+./final < input 
+vim matrix.h 
+make
+./final < input 
+vim main.cpp 
+./final < input 
+make
+./final < input 
+vim matrix.h 
+vim main.cpp 
+./final
+vim matrix.h 
+make
+./final <input 
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+cd workspace/gsoc/aerospaceresearch/matrix-solver/
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+make
+vim matrix.h 
+roscd auv_debug
+cd ..
+sublime_text 
+git fetch ssh_origin 
+git merge ssh_origin/torpedo_test 
+git ch newArchitecture 
+git merge ssh_origin/newArchitecture 
+sublime_text 
+roscd auv_states
+cm
+git co -am "compiling, buoy task ported"
+git push ssh_origin 
+git ch torpedo_test 
+git rm ../auv_parser/src/y.tab.*
+git rm ../auv_parser/src/lex.yy.
+git rm ../auv_parser/src/y.tab.h
+rm ../auv_parser/src/y.tab.*
+rm ../auv_parser/src/lex.yy.c 
+git ch torpedo_test 
+git hist
+git ch newArchitecture 
+roscd auv_hw_comm/
+git add src/firmware/thrusterProfile.h 
+git co -am "thruster profiler somewhat done"
+git co -am "comments added"
+git push ssh_origin 
+git fetch ssh_origin 
+git merge ssh_origin/newArchitecture 
+git push ssh_origin 
+git ch vision_tasks_test 
+git merge ssh_origin/vision_tasks_test 
+git ch newArchitecture 
 exit
 exit
-cd Downloads/Zip/
+export ROS_MASTER_URI=http://192.168.2.4:11311
+rosrun auv_debug electronics_interface 
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+ifconfig 
+ping 192.168.2.4
+ifconfig 
+ping 192.168.2.4
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+cd 
+mkdir boost_install
+cd boost_install/
+ls
+mkdir lib
+mkdir include
+clear
+ls
+mkdir build
+ls
+ll
 l
-utar eclipse-standard-kepler-SR1-linux-gtk-x86_64.tar.gz 
-rm eclipse-standard-kepler-SR1-linux-gtk-x86_64.tar.gz 
+tree
+cd ..
+top
+clear
+cd
+clear
 l
-cp -r eclipse ~/programs
-rm -fr eclipse/
+ps | b2
+ps | grep b2
+cd boost_install/
+tree
+tree -a
+man tree
+tree -fia
 l
-rm bitnami-wordpress-3.8-0-module-linux-x64-installer.run 
+cd ..
 l
-rm Sublime\ Text\ 2/
-rm Sublime\ Text\ 2 -fr
+tree boost_install/
+rm boost_install/ -fr
+locate boost 
+echo $LD_LIBRARY_PATH 
+cd workspace/gsoc/
 l
-mv smartgithg-5_0_5 ~/programs
-mv -r smartgithg-5_0_5 ~/programs
-cp -r smartgithg-5_0_5 ~/programs
+cd boost_1_55_0/
 l
-rm -fr smartgithg-5_0_5
+l libs/
+cd ..
+l
+cd boost_1_55_0/
+l
+cd boost/
+l
+l iostreams/
+cd workspace/gsoc/
+cd boost_1_55_0/
+ls
+sh bootstrap.sh --prefix=~/boost_install/  
+./b2  --help
+./b2  --help | more
+./b2 --prefix=~/boost_install/
+l
+tree | grep link.jam
+./bjam 
+vim bjam 
+./b2 --prefix=~/boost_install/
+l
+echo $PATH
+export PATH=/usr/local/heroku/bin:/home/kunaltyagi/catkin_ws/devel/bin:/opt/ros/hydro/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/lib/jvm/java-7-oracle/bin:/usr/lib/jvm/java-7-oracle/db/bin:/usr/lib/jvm/java-7-oracle/jre/bin:/home/kunaltyagi/workspace/gsoc/boost_1_55_0
+export LD_LIBRARY_PATH=/usr/lib/gazebo-1.9/plugins:/home/kunaltyagi/catkin_ws/devel/lib:/opt/ros/hydro/lib:/home/kunaltyagi/programs/europa/lib:/home/kunaltyagi/workspace/gsoc/boost_1_55_0/stage/lib
 clear
 cd ..
+cd mlpack-1.0.8/
+k
+l
+cd build/
+cmake ../
+cd ..
+vim CMakeLists.txt 
+cd build/
+cmake ../
+l
+cd src/
+l
+cd mlpack/
+l
+cd ..
+l
+roscd auv_navigation/
+l
+cd ..
+cm
+clear
+git fetch  ssh_origin 
+git merge ssh_origin/torpedo_test 
+cm
+cm --pkg auv_msgs
+cm
+git merge ssh_origin/torpedo_test 
+git ch newArchitecture 
+git merge ssh_origin/newArchitecture 
+cm
+git ch torpedo_test
+cd auv_navigation/
+vim src/execution_state/execution_state.cpp 
+git co -am "some changes, hopefully, better yaw control"
+man game
+man gamma
+temperature 
+./iitblogin.py 
+temperature 
+cd public_html/
+l
+cd hostel6/devel/imgs
+cd hostel6/devel/img/
+l
+cd ../../new/img/
+nautilus ./
+wrapper.py ssh
+clear
+wrapper.py ssh
+wrapper.py ssh
+clear
+wrapper.py ssh
+wrapper.py ssh
+clear
+wrapper.py ssh
+wrapper.py ssh
+clear
+wrapper.py ssh
+wrapper.py ssh
+clear
+wrapper.py ssh
+wrapper.py ssh
+clear
+wrapper.py ssh
+wrapper.py ssh
+clear
+wrapper.py ssh
+wrapper.py ssh
+clear
+wrapper.py ssh
+wrapper.py ssh
+clear
+wrapper.py ssh
+wrapper.py ssh
+clear
+wrapper.py ssh
+exit
+roscd auv_navigation/
+git hist
+git push ssh_origin 
+git fetch ssh_origin 
+git branch -D vision_*
+git branch -D vision_hydro_devel_test 
+git branch -D vision_tasks_test 
+git ch newArchitecture 
+sublime_text 
+git fetch ssh_origin 
+git ch torpedo_test 
+git hist
+git ch ssh_origin/vision_tasks_test 
+git st
+git stash
+git ch ssh_origin/vision_tasks_test 
+git stash
+git ch torpedo_test 
+git co -am "pre testing changes"
+git co -am "changes in parking task"
+cm
+wrapper.py ssh
+wrapper.py ssh
+ssh -X matsya'
+ssh -X matsya
+wrapper.py ssh
+wrapper.py ssh
+ping 192.168.2.1
+ping 192.168.2.4
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+roscd auv_navigation/
+cm
+git co -am "Compile success"
+wrapper.py ssh
+$?
+wrapper.py ssh
+ping 192.168.2.1
+ping 192.168.2.4
+wrapper.py ssh
+git ch newArchitecture 
+cd ../auv_hw_comm/
+l
+cd src/
+l
+cd firmware/
+l
+git ch torpedo_test 
+git ch newArchitecture  thrusterProfile.h
+l
+wrapper.py ssh
+wrapper.py ssh
+wrapper.py ssh
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+kill %%
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+./iitblogin.py 
+temperature 
+sublime_text 
+cd public_html/
+l
+cd hostel6/
+l
+cd devel/
+l
+cd img
+l
+shotwell mess.jpg 
+shotwell messm.jpg 
+cp ~/Pictures/tmp.jpg ./messm.jpg
+cd ../../new/img/matki-pod/
+l
+nautilus ./
+cd ../..
+cd ..
+git add .
+git co -am "many changes"
+git push origin 
+kilall wesnoth
+killall wesnoth
+killall wesnoth-1.10 
+sudo apt-get purge scummvm*
+sudo apt-get purge torcs*
+sudo apt-get autoremove 
+sudo apt-get purge freeciv-*
+sudo apt-get autoremove 
+clear
+cd
+roscd auv_navigation/
+git st
+git fetch auv
+git merge auv/torpedo_test 
+cd
+cd workspace/code/cpp/genetic/
+clear
+cd ~/git/Moodle_Sync/
+./MoodleSync.sh 
+cd -;cl
+sublime_text 
+roscd auv_navigation/
+git fe auv
+git merge auv/torpedo_test 
+git diff 497b0cf b289ee2
+cd -
+sudo echo hi
+matlab
+git add .
+git co -am "many changes"
+cd ~/workspace/code/java/puzzle-solver/
+git add .
+git co -am "many changes"
+git push origin 
+git ch ~/workspace/studies/study-notes/
+git push origin 
+cd ~/workspace/studies/study-notes/
+git push origin 
+cd -
+cd
+cd -
+cd
+clear
+cd ~/git/Moodle_Sync/
+./MoodleSync.sh 
+cp AE\ 220-2013-2\ Aerospace\ Structural\ Mechanics/* ~/workspace/studies/ae220/
+cd
+cd public_html/hostel6/
+cd devel/
+vim index.php 
+cd ~/workspace/studies/study-notes/
+git add .
+git co -am "before struct quiz"
+roscd auv_navigation/
+git co -am "thruster profiling over"
+cd
+cd Documents/
+vim tmp.csv 
+rm tmp.csv 
+git co -am "one thruster done"
+cd -
+cd --
+roscd auv_navigation/
+git co -am "one thruster done"
+git co -am "onother one down"
+git co -am "not embedded friendly"
+git push origin 
+git push ssh_origin 
+cd .lo
+cd
+cd .local/
+l
+l -a
+cd share/
+l
+cd zeitgeist/
+l
+cd ..
+l
+cd desktop-directories/
+l
+cd ..
+l
+cd applications/
+l
+vim terminator.desktop 
+vim chrome-djejicklhojeokkfmdelnempiecmdomj-Default.desktop 
+vim xampp-control-panel.desktop 
+vim mimeapps.list 
+cd ..
+l
+cd applications/
+l
+cd ..
+cd bower/
+l
+l -a
+cd empty/
+l
+l =a
+l -a
+l
+cd ..
+l
+cd ..
+l -a
+l
+clear
+l
+cd desktop-directories/
+l
+vim chrome-apps.directory 
+cd ..
+vim gsettings-data-convert 
+vim gvfs-metadata/
+cd gvfs-metadata/
+l
+vim computer\:
+vim home
+cd ..
+l
+cd hamster-applet/
+l
+cd ..
+vim icc
+l
+l icons/
+l icons/hicolor/
+cd rhythmbox/
+l
+ain audioscrobbler/
+l
+vim audioscrobbler/
+cd ..
+l
+cd sounds/
+l
+cd ..
+cd wesnoth/
+l
+cd 1.10/
+l
+cd saves/
+l
+vim HttT-Test_of_the_Clan-Auto-Save8.gz 
+cd ..
+l
+cd persist/
+l
+cd ..
+cd data/
+l
+cd ..
+cd editor/
+l
+cd ..
+l
+cd ..
+l
+cd ubuntuone/
+l
+cd syncdaemon/
+ll
+l
+cd s
+cd fsm/
+l
+cd ..
+cd tritcask/
+l
+cd ..
+cd vm/
+l
+cd ..
+vim metadata_version 
+cd .
+cd ..
+l
+cd totem/
+l
+l -a
+cd ..
+.
+l
+cd ..
+l
+l -a
+cd .bundler/
 l
 cd tmp/
 l
-clear
-exit
-exit
-cd workspace/
+l -a
+cd ..
+l
+l -a
+cd .dbus/
+l
+cd session-bus/
+l
+vim 8c3c3700dc9dae54229dfe2700000006-0 
+cd ..
+l
+l -a
+cd ..
+l
+cd -
 l
 cd ..
 l
-cd git/
-git clone https://code.google.com/p/supertux/
-git clone https://code.google.com/p/supertux.editor/
+cl -a
+l -a
+cd .config/
 l
-cd supertux
+vim configstore/
+vim deluge/
+cd gnome-control-center/
 l
-vim configure 
-./configure 
-sudo apt-get install  libogg
-sudo apt-get install  libogg-vorbis-decoder-perl 
-./configure 
-sudo apt-get install  libogg-vorbis-header-pureperl-perl 
-./configure 
-sudo apt-get install  libogg0
-./configure 
+cd backgrounds/
 l
-vim INSTALL 
-sudo apt-get install glew-utils
-./configure 
+vim last-edited.xml 
 l
-vim CMakeLists.txt 
-vim INSTALL 
-fg
-sudo apt-get install cmake-doc cmake
-fg
-sudo apt-get install opengl-*
-sudo apt-get install opengl
-sudo apt-get install opengl-
+cd ..
+l -a
+cd ..
+l
+cd gnome-disk-utility/
+l
+cd ata-smart-ignore/
+l
+l -a
+cd ..
+cd gnome-session/
+l
+cd saved-session/
+l
+l -a
+l
+cd ..
+l
+cd ..
+l
+cd go
+cd goa-1.0/
+l
+l -a
+cd ..
+l
+cd ibus/
+l
+cd bus/
+l
+l -a
+l
+cd ..
+l
+cd ..
+l
+vim menus/
+vim ubuntu-tweak/
+l
+cd Settings/
+l
+cd ..
+l
+cd nautilus/
+l
+vim desktop-metadata 
+nautilus ./
+cd ..
+l
+vim user-dirs.*
+cd ..
+l -a
+vim .dmrc 
+vim .firebaserc 
+cd .fltk/
+l
+cd fltk.org/
+l
+vom fluid.prefs 
+vim fluid.prefs 
+cd ..
+l
+cd ..
+l
+l -a
+cd .ros/
+l
+cd ..
+l
+l -a
+rm .scummvm -fr
+rm .scummvmrc 
+rm .torcs/ -fr
+vim .Xauthority 
+cd .pki
+l
+cd nssdb/
+l
+cd ..
+l
+cd ..
+l
+l -a
+cd NetBeansProjects/
+l
+cd DS4/
+l
+tree
+l src
+l src/
+tree src
+l temp
+l temp/src/
+tree temp/src/
+rm temp -fr
 cd
-cd Downloads/Zip/
-chmod 755 *.run
-l
-./xampp-linux-x64-1.8.3-2-installer.run 
-sudo ./xampp-linux-x64-1.8.3-2-installer.run 
-sudo ./bitnami-wordpress-3.8-0-module-linux-x64-installer.run 
-rm xampp-linux-x64-1.8.3-2-installer.run 
-em bitnami-wordpress-3.8-0-module-linux-x64-installer.run 
-l
-cd
-cd git/
-rm -fr supertux*
 clear
-cd ../Downloads/Zip/
-l
-rm NVIDIA-Linux-x86_64-331.20.run 
-clear
+vim desktop_record.sh 
 cd
-cd programs/
+l
+cd workspace/
+l
+cd code/
+l
+cd Game\ Develop\ projects/
+l
+cd ..
+rm Game\ Develop\ projects -fr
+cd java/
+l
+cd ..
+rm java -fr
+cd python/
+l
+cd robotgame/
+l
+l my_bots/
+l other_bots/
+cd other_bots/
+clear
+l
+cl
+vim Wall-E.py 
+vim BeatsTapion.py 
+cd ../my_bots/
+kl'
+clear
+cd ..
+l
+cd ..
+l
+cd ..
 l
 cd eclipse/
 l
-./eclipse 
+cd cs213/
+l
+tree
 cd ..
-lk
 l
-cd tor-browser_en-US/
+cd random/
 l
-./start-tor-browser 
-exit
-sudo add-apt-repository ppa:webupd8team/jupiter
-sudo apt-get update
-sudo apt-get install jupiter
-sudo vim /etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla 
-exit
-top
-cd Downloads/Zip/
+tree
+cd ..
+rm random -fr
 l
-chmod 755 SDM.pkg
-./SDM.pkg 
-exit
-sudo add-apt-repository ppa:recoll-backports/recoll-1.15-on
-sudo apt-get update
-sudo apt-get install recoll-lens recoll
-exit
-sudo pm-hibernate 
-for i in $( ls ); do             echo item: $i;         done
-exit
-seq 3 6
-exit
-vim .bash_aliases
-resource
-azsdcd_tmp_errorProne 
-vim .bash_aliases
-azsdcd_tmp_errorProne 
-resource
-azsdcd_tmp_errorProne 
-sensors
-azsdcd_tmp_errorProne 
-vim .bash_aliases
-resource
-azsdcd_tmp_errorProne 
-vim .bash_aliases
-sudo hddtemp
-sudo hddtemp /dev/sda
-sudo hddtemp /dev/sda | awk '{print $3}'
-sudo hddtemp /dev/sda | awk '{print $3}' | grep -o -E "[0-9]*\.[0-9]*"
-sudo hddtemp /dev/sda | awk '{print $3}' | grep -o -E "[0-9]"
-sudo hddtemp /dev/sda | awk '{print $3}' | grep -o -E "[0-9]*"
-sudo hddtemp /dev/sda | awk '{print $3}' | grep -o -E "[0-9]+\.*[0-9]*"
-vim .bash_aliases
-resource
-azsdcd_tmp_errorProne 
-vim .bash_aliases
-exit
-sensors
-exit
-sensors
-exit
-roscd auv_navigation/
-git add -A ../
-git commit -am "torpesi stl added"
-git push ssh_origin 
+cd ..
+l
+cd bash/
+l
+cd ..
+rm bash -fr
+l c
+l cpp/
+cd cpp
+l
+cd genetic/
+l
+git init
+git add .
+git co -am "initialized"
+mkdir src
+cd src/
+l
+vim chromosome.h
+cp chromosome.h gene.h
+git add .
+git co -am "started on general genetic framework"
+vim gene.h 
+g++ gene.h 
+vim gene.h 
+g++ gene.h 
+git co -am "progress, now sleeping"
 cd
-cp .bash_aliases dotfiles/
-cd dotfiles/
-git commit -am "thermal warning: nearly done"
-git push origin 
-cat create_localhost.py 
-git .bash_aliases
-vim .bash_aliases
-git commit -am "added a localhost creating python command in aliases"
-git push origin 
-exit
-cd git/mozilla/
+cd workspace/studies/study-codes/
 l
-l _A
-l -A
-cd .hg/
+cd ai/
 l
+cd astar/
+l
+vim Astar.*
+vim graph.*
+vim Astar.*
+vim graph.*
+vim header.h 
+vim node.h 
+vim main.cpp 
 clear
 l
 cd ..
 l
-l -A
-exit
-echo $HG
-echo $HGHG
-$HGHG
-exit
-echo hi
-hi
-$!
-exit
-cd git/mozilla/
-vim .hg/hgrc 
-exit
-sudo apt-get install python-setuptools python-dev build-essential
-sudo easy_install -U mercurial
-./mach mercurial-setup
+cd python_codes/
+cd ..
 l
-l -A | grep .
-sudo apt-get install kdiff3 kdiff3-doc kdiff3-qt 
-sudo apt-get install kdiff3 kdiff3-doc
-sudo apt-get install kdiff3-qt 
-hg version
-exit
-vim ~/.hgrc
-hg hepl
-hg help
-hg help log
-hg help
-clear
-hg help
-hg help diffs
-hg help merge-tools
-exit
-vim .hgrc 
-exit
-cd git/mozilla/
+l python_codes/
+l java_codes/
+cd ..
 l
-l -A
-cd .hg/
+l docs/
+l puzzles/
 l
-cd store/
+cd puzzles/
+vim cell.h 
+vvim sudoku_solver.java 
+vim sudoku_solver.java 
+mkdir src
+cd
+cd -
+git st
+git co -am "minor changes"
+cdp ~/NetBeansProjects/string/src/ ./src/
+cp ~/NetBeansProjects/string/src/ ./src/
+cp ~/NetBeansProjects/string/src/* ./src/ -r
+l
+cd src/
+l
+cd string/
 l
 cd ..
 clear
-exit
-vim .hgrc 
-exit
-cd git/
-hg clone https://bitbucket.org/edgimar/crecord
-hg clone https://bitbucket.org/sfink/mqext
-hg clone https://hg.mozilla.org/users/robarnold_cmu.edu/qimportbz
-hg clone https://hg.mozilla.org/users/tmielczarek_mozilla.com/bzexport
-git clone https://github.com/pbiggar/trychooser
-vim /home/kunaltyagi/.hgrc 
-exit
-vim .hgrc 
-hg version
-hg help
-exit
-vim .hgrc 
-exit
-sensors
-exit
-cd git/
-l
-l | grep crecord
-l | grep trychooser
-exit
-sensors
-exit
-cd git
-mkdir mozilla
-hg init mozilla
-cd mozilla/
-vim .hg/hgrc
-l
-hg pull release 
-kill %%
-hg recover
-hg pull release 
-hg heads
-cd git/mozilla/
 cd ..
-l
-cd crecord/
-l
-mv -r crecord ../
-mv crecord ../
-cd crecord/
-l
-l -A
-cd ..
-l -A
-cd ..
-l
-cd bzexport/
-l
-l -A
-cd ../crecord/
-l
-mv crecord/* ./
-l crecord
-rm crecord 
-rm crecord  -fr
-cd ..
-l
-cd trychooser/
-l
-l -A
-vim README.md 
-./trychooser
-cd ..
-vim mozilla/.hg/hgrc 
-cd crecord/
-l
-exit
-vim .hgrc 
-exit
-wget https://hg.mozilla.org/mozilla-central/raw-file/default/python/mozboot/bin/bootstrap.py && python bootstrap.py
-sudo apt-get install zip unzip mercurial g++ make autoconf2.13 yasm libgtk2.0-dev libglib2.0-dev libdbus-1-dev libdbus-glib-1-dev libasound2-dev libcurl4-openssl-dev libiw-dev libxt-dev mesa-common-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev libpulse-dev
-cl
-g++exit
-exit
-cd git/mozilla/
-l
-l obj-x86_64-unknown-linux-gnu/
-l obj-x86_64-unknown-linux-gnu/dist/
-l obj-x86_64-unknown-linux-gnu/dist/bin
-sensors
-sens
-sensors
-exit
-hg pull central
-hg update
-hg bookmark -r `hg identify -r default central` central
-hg bookmark -r `hg identify -r default inbound` inbound
-hg bookmark -r `hg identify -r default aurora` aurora
-hg bookmark -r `hg identify -r default beta` beta
-hg bookmark -r `hg identify -r default release` release
-hg up central
-hg pull -u central
+cd ~/NetBeansProjects/string/
+rm -fr src
+shortcut ~/workspace/studies/study-codes/puzzles/src/ 
 l
 cd src
-cl
-cd central-src
 l
-vim README.txt 
-make
-cd git/mozilla/
-hg pull beta
-sensors
-exit
-sensors
-exit
-man set
-set -e
-exit
-man read
-man line
-ls -l | read line
+cd ..
+cd src
 l
-cd workspace/
+clear
+l
+cd ~/workspace/studies/study-codes/puzzles/
+vim cell.h 
+git add .
+git co -am "some progress"
+git push origin 
+ssh nilesh 
+mv ~/Ubuntu\ One/Music/EnVorbis_StopStopStop.mp3 ~/Ubuntu\ One/Music/NuVergos_StopStopStop.mp3
+git st
+git co -am "cell also nearly done"
+git co -am "work on table started"
+git add .
+git co -am "table refactored"
+git push origin 
+mkdir ../../../code/java
+cd ..
+l
+cd ../../code/java
+git clone git@github.com:kunaltyagi/puzzle-solver.git
+cp ../../studies/study-codes/puzzles/* puzzle-solver/
+cp ../../studies/study-codes/puzzles/* puzzle-solver/ -r
+cd puzzle-solver/
+l
+cd src/
+l
+cd string/
+l
+cd ..
+git add .
+git co -am "in new repo"
+git push origin 
+cd ~/NetBeansProjects/string/
+l
+vim src
+shortcut ~/workspace/code/java/puzzle-solver/src/ 
+shortcut ~/workspace/code/java/puzzle-solver/src/ ./sr
+l
+mv src sre
+mv sr src
+rm sre
+l
+cd src
+cd ~/workspace/studies/study-codes/
+l
+rm puzzles -fr
+git add.
+git add .
+git co -am "new repo used for puzzle"
+git push origin 
+cd ..
+cd gsoc/
+l
+cd aerospaceresearch/
+l
+cd matrix-solver/
+git st
+cd ..
+l
+cd ..
+l
+cd ..
 l
 cd code/
 l
 cd python/
 l
-cd ../webdev/
-l
-cd pacman/
-l
-cd audio/
-l
-ls -l
-ls -l | while read line; doset -$line; echo $5 $9; done| sort -n
-ls -l | while read line; do\set -$line; echo $5 $9; done| sort -n
-ls -l | while read line; do;set -$line; echo $5 $9; done | sort -n
-ls -l | while read line; do set -$line; echo $5 $9; done | sort -n
-man set
-ls -l | while read line; do set - $line; echo $5 $9; done | sort -n
-l
-ll
-ls -l | while read line; do set - $line; echo $5 $9; done | sort -n
-ls -l | awk '{print $5 $9}'| sort -n
-ls -l | awk '{print $5, $9}'| sort -n
-man sort
-clear
-set - e
-echo 
-$*
-vim .bash_aliases
-exit
-todo leave for pune tomorrow
-l Desktop/
-vim .bash_aliases
-exit
-l
-rm leave 
-rm for 
-rm pune 
-rm tomorrow 
-cl
-rm sensor.tmp 
-todo leave for
-l
-rm leave 
-rm for 
-vim .bash_aliases
-resource 
-todo leave for
-l Desktop/
-l
-cd git/mozilla/
-make -f client.mk build
-l
-rm leave 
-rm for 
-vim ~/.bash_aliases
-exit
-sensors
-exit
-sensors
-exit
-cd git/
-git clone git://git.gnome.org/accerciser
-utar accerciser-3.8.2.tar.xz 
-rm accerciser-3.8.2.tar.xz 
-exit
-irssi 
-exit
-cd
-cd git/
-git clone https://git.gnome.org/browse/accerciser
-cd accerciser/
-l
-vim configure.ac 
-chmod 755 configure.ac 
-./configure.ac 
-./configure
-./autogen.sh 
-sudo apt-get install gnome-
-./autogen.sh 
-make
-./autogen.sh 
-vim autogen.sh 
-l
-vim INs
-vim IN
-vim INSTALL 
-autoconf configure.ac 
-l
-vim README 
-l
-vim INSTALL 
-./configure
-cd help/
-l
-cd ..
-l
-cl
-vim NOTICE 
-./configure.ac 
-vim configure.ac 
-autoconf configure.ac 
-autoconf configure.ac m4_pattern_allow
-autoconf configure.ac -m4_pattern_allow
-autoconf configure.ac --m4_pattern_allow
-autoconf2.13 configure.ac
-l
-./configure
-exit
-cd git/mozilla/
-l
-cd accessible/
-cd src/
-l
-cd generic/
-l
-vim HyperTextAccessible.h
-vim HyperTextAccessible.cpp 
-vim HyperTextAccessible.h
-sensors
-sudo hddtemp /dev/sda
-exit
-exi
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sudo apt-get install slime
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-cd workspace/
-cd
-cd workspace/tutorial/c#
-evince C#\ Bible.pdf 
-cd workspace/
-clear
-l
-cd tutorial/
-l
-cd lisp/
-l
-~/git/mozilla/obj-x86_64-unknown-linux-gnu/dist/bin/firefox-bin index.html 
-exit
-senso1
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-cl
-l
-x=2
-echo $x
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-cd workspace/
-cd
-cd workspace/tutorial/c#
-cl
-evince C#\ Bible.pdf 
-exit
-cd workspace/
-cd tutorial/
-cd bash/
-l
-~/git/mozilla/obj-x86_64-unknown-linux-gnu/dist/bin/firefox-bin index.html &
-cd ..
-l
-cd lisp/
-l
-~/git/mozilla/obj-x86_64-unknown-linux-gnu/dist/bin/firefox-bin index.html &
-cd git/mozilla/
-l
-vim build_command
-clear
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-cd iit/
-vim letter_of_intent
-cat letter_of_intent 
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-vim workspace/tutorial/hts/hash 
-exit
-sensors
-exit
-sensors
-exit
-296+234
-$(296+234)
-`296 - 234`
-exit
-sensors
-exit
-cd workspace/tutorial/hts/
-l
-vim real_6
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-gconf-editor
-sudo apt-get install gconf-editor
-sudo apt-get update 
-sudo apt-get upgrade 
-exit
-sensors
-exit
-sensors
-while true; do sensors; done
-while true; do sensors|head -n +5| tail -n 1; done
-while true; do sensors|head -n +6| tail -n 1; done
-while true; do sensors|tail -n +6| head -n 1; done
-while true; do sensors|tail -n +3| head -n 1; done
-sensors
-while true; do sensors|tail -n +7| head -n 1; done
-exit
-sensors
-exit
-sudo apt-get install  armagetronad
-sudo apt-get install wormux torcs pingus flightgear flight-of-the-amazon-queen boswars 
-exit
-menu
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sensors
-exit
-sudo apt-get install mysql-server
-sudo service mysql start
-ps | grep mysql
-sudo kill 2308
-exit
-cd workspace/tutorial/coursera/database/dbclass-slides-annotated/
-vim index
-sensors
-exit
-sensors
-exit
-sensors
-exit
-while true; do sensors|tail -n +7| head -n 1; done
-exit
-sensors
-exit
-sensors
-exit
-ps | grep tild
-tilda &
-exit
-sensors
-exit
-sudo apt-get install cheese
-exit
-sudo apt-get remove devilspie 
-sudo apt-get install gdevilspie 
-ps | grep dc
-exit
-sensors
-exit
-sensors
-./dotfiles/iitblogin.py 
-clear
-sensors
-exit
-sensors
-exit
-clear
-roscd auv_navigation/
-l
-git status 
-git merge newArchitecture 
-cd ..
-gedit auv_parser/src/y.tab.* auv_parser/src/lex.yy.c auv_msgs/package.xml auv_msgs/CMakeLists.txt 
-git commit -am "merged auv_nav from newArch"
-git status
-cd auv_nav
-l
-cd src/
-l
-vim navigator.cpp 
-vvim interpret.cpp
-vim interpret.cpp
-git commit -am "nearly done for transiition"
-git add interpret.cpp 
-git commit -am "nearly done for transiition"
-git push ssh_origin 
-exit
-cd workspace/
-;
-l
-cd code/
-l
-mv c++ cpp -r
-mv c++ cpp 
-l
 cd cpp
 l
-mkdir genetic
+cd ../cpp
+,l
+l
 cd genetic/
-cl
-vim airfoil.h
-vim airfoil.cpp
-top
-exit
-cd workspace/htdocs/hostel6/public_html/
-python -m SimpleHTTPServer
-exit
-cd workspace/
-l
-cd code/
-l
-mkdir java
-cd java/
-vim tmp.java
-javac tmp.java 
-l
-java Abs 
-exit
-python
-exit
-sudo apt-get purge virtualbox
-sudo apt-get autoremove 
-man dkms
-clr
-exit
-sensors|tail -n +7|head -n 1
-exit
-sensors|tail -n +7|head -n 1
-echo hi|alert
-alert done
-sleep 1
-sleep 1|alert
-sensors|tail -n +7|head -n 1
-sleep 1|alert
-
-sleep 1|alert
-sensors|tail -n +7|head -n 1
-cd git/
-l
-hg clone https://bitbucket.org/eigen/eigen/
-cd eu
-cd eigen/
-l
-vim INSTALL 
-cat INSTALL |tail -n +27|head -n 3
-cd build_dir
-mkdir build_dir
-cd build_dir
-cmake ../
-make doc
-sensors|tail -n +7|head -n 1
-make install
-sudo make install
-cd
-sensors|tail -n +7|head -n 1
-roscore
-rostopic hz /diagnostics 
-rostopic hz /diagnostics | grep rate
-rostopic hz /diagnostics | grep rate -i
-rostopic hz /diagnostics -w 5| grep rate -i
-rostopic hz /diagnostics -w 5
-rostopic hz /diagnostics
-roscd auv_msgs/msg/
-l
-vim PWMValues.msg 
-cd ../../utils/
-vim wrapper.py 
-cd -
-vim PwbStatus.msg 
-cd ../..
-git add --all ./
-git commit -am "made a gtest file in auv_test, not a package"
-git push ssh_origin 
-git fetch ssh_origin 
-git merge ssh_origin/torpedo_test 
-git push ssh_origin 
-git checkout vision_tasks_test 
-git merge ssh_origin/vision_tasks_test 
-git checkout torpedo_test 
-git push ssh_origin s
-git push ssh_origin 
-git status
-l
-cd auv_debug/src/electronics_interface/
-vim electronic_board_interface.cpp 
-vim mci_frame.cpp 
-cd ../..
+git remote add origin git@github.com:kunaltyagi/genetic.git
+git fetch origin 
+git merge origin/master 
+git co -am "merged"
+rm src/gene.h.gch 
+git push origin 
 cd ..
+l
+cd ..
+l
+cd webdev/
+l
+git clone git@github.com:kunaltyagi/2048.git
+cd 2048/
+git remote add upstream https://github.com/gabrielecirulli/2048.git
+git remote add manish https://github.com/Manishearth/2048.git
+git remote add undo https://github.com/sujeetgholap/2048.git
+git fetch upstream 
+git merge upstream/master 
+git ch -b gh-pages
+git merge upstream/gh-pages 
+git ch -b undo
+git fetch undo 
+git merge undo/gh-pages 
+git branch -b save
+git branch save
+git beanch
+git branch
+clear
+git st
+nautilus ../../../studies/
+cp ~/git/Moodle_Sync/AE\ 220-2013-2\ Aerospace\ Structural\ Mechanics/* ../../../studies/ae220/
+l
+vim js/grid.js 
+vim index.html 
+vim js/application.js 
+vim js/game_manager.js 
+vim js/keyboard_input_manager.js 
+git co -am "merged"
+l
+firefox index.html &
+kill %%
+vim index.html 
+l
+grep fvd-suite * -ri
+git hist
+git reset 8b87c81
+git stash
+git ch master 
+git st
+l js
+git add js/*
+git co -am "rnd"
+git rm README.md 
+git rm Rakefile 
+l
+git stash
+l
+rm Rakefile 
+rm cache.appcache 
+git ch master 
+l
+firefox index.html 
+vim index.html 
+firefox index.html &
+git branch
+git st
+git co -am "initialized"
+git st
 l
 clear
 l
-cl
-git commit -am "code not in proper form, motor working test to be done"
-git add --all ./
-git commit -am "code not in proper form, motor working test to be done"
-git status
-git add auv_test/*
-git commit -am "code not in proper form, motor working test to be done"
-cd auv_test/
-;
+git merge save 
+git st
+git hist
+git hist --author="manishearth"
+git hist --author="mani
+"
+git hist --author="mani"
+git log
+git reset 12ee1588a5663832b7cfc257385c
+git stash
+git hist
+clear
+git ch save 
+git add ./
+git co -am ?init"
+git co -am "init"
+git ch save 
 l
-cd test/
+git ch master 
+git merge undo/gh-pages 
+vim style/main.scss 
+vim style/main.css 
+vim style/helpers.scss 
+vim js/keyboard_input_manager.js 
+vim js/html_actuator.js 
+vim js/game_manager.js 
+vim js/application.js 
+vim index.html 
+git stash
+git commit -am "unsuccessfull"
+git hist
+git hist --author="kunaltyagi"
+git reset 8b80784
+git stash
+git st
+rm js/bottomless_stack.js 
 l
-cd ..
+l js/
+vim js/keyboard_input_manager.js 
+cd
+cd public_html/
 l
-vim utest.cpp 
-cd ..
-git commit -am "code not in proper form, motor working test to be done"
-git push ssh_origin 
-git commit -am "motor test done, code needs to be in proper format"
-git commit -am "some formatting done, nodehandle neeeds to be done, rest looks okaygit commit -am "motor test done, code needs to be in proper format""
-git commit -am "some formatting done, nodehandle neeeds to be done, rest looks okay"
-git push ssh_origin 
-sensors|tail -n +7| head -n 1
+cd hostel6/devel/
+l
+cd img
+l
+cd dummies/
+l
+cd slides/
+l
+nautilus ./
+cd ../../..
+vim index.php 
 roscd auv_navigation/
 git fetch ssh_origin 
-git pull ssh_origin 
-git checkout simulator 
-git commit -am "work in progress"
-git checkout simulator 
-git merge ssh_origin/simulator 
-l
-cd ..
-vim .robosub_
-vim .robosub_bash 
-git checkout vision_tasks_test 
-git merge ssh_origin/vision_tasks_test 
-git checkout torpedo_test 
-l
-rostopic hz /rosout
-sudo cp utils/wrapper.py /usr/bin/
-wrapper.py launch
-cl
-mkdir auv_test
-cd auv_test/
-mkdir test
-vim utest.cpp
-vim imu_test.launch
-vim utest.cpp 
-cd /media/
-l
-l -A
-cd ..
-cd
-cl
-cd /media/
-l
-sudo mkdir iso
-l
-mount -o loop ~/Downloads/iso/MATLAB\ 2012a\ Unix\ Linux\ Ubuntu\ Mac\ 32\ and\ 64\ bit\ cracked\ ISO\ CR\ TBE.iso /media/iso/
-sudo mount -o loop ~/Downloads/iso/MATLAB\ 2012a\ Unix\ Linux\ Ubuntu\ Mac\ 32\ and\ 64\ bit\ cracked\ ISO\ CR\ TBE.iso /media/iso/
-cd iso/
-l
-./install
-sudo ./install
-cd
-cd crack/
-vim install.txt 
-l
-vim install.txt 
-cat install.txt 
-cd
-python
-cd workspace/tutorial/hts/
-l
-vim string.py
-cd workspace/tutorial/hts/
-vim string.py
-cd .config/
-l
-cd wesnoth/
-l
-vim preferences 
-cd ..
-l -A
-cd ..
-l
-l -A
-tree -f | grep wesnoth
-man tree
-tree -f -a | grep wesnoth
-l
-cd .cache/
-l
-cd wesnoth/
-l
-utar cache-v1.10.2-127c5e7ed23a3e7567aff36da82219b41a41f8a5.define.gz 
-utar cache-v1.10.2-127c5e7ed23a3e7567aff36da82219b41a41f8a5.gz 
-utar cache-v1.10.2-127c5e7ed23a3e7567aff36da82219b41a41f8a5.checksum.gz 
-l
-cd
-l
-cd /usr/
-l
-cd games/
-l
-cd ..
-l
-cd s
-cd share/
-l
-cd ..
-l
-cd src/
-;l
-cd ../local/
-l
-cd games/
-;
-l
-exit
-cd Downloads/Zip/john-1.8.0/
-cd run/
-vim tmp
-./john tmp
-rcsiue
-lonsam
-wtserebr
-ownsbr
-adclue
-palima
-haisel
-erncela
-hdwrao
-oyrnlsde
-vim sa
-python
-cd ~/workspace/tutorial/hts/
-l
-python 
-cl
-roscd auv_navigation/src/execution_state/
-l
-vim manipulator_exec.cpp
-fg
-git checkout newArchitecture 
+git ch newArchitecture 
 git merge ssh_origin/newArchitecture 
-git checkout vision_tasks_test 
-git merge ssh_origin/vision_tasks_test 
-git checkout torpedo_test 
-fg
-sensors|tail -n +7|head -n 1
-roscd auv_navigation/
-git add -A ./
-git commit -am "maneuver started"
-git fetch ssh_origin 
-sensors|tail -n +7|head -n 1
-git commit -am "mode A: using front camera and red pipe started"
-git push ssh_origin 
-sensors|tail -n +7|head -n 1
-python
-cd workspace/studies/cs344/1/
 l
-python
-exit
-cd workspace/studies/cs344/1/
-l
-python
-exit
-python
-exit
-cd workspace/studies/cs344/1/
-l
-python
-exit
-cd workspace/
-l
-cd tutorial/coursera/
-l
-cd crypto/
-l
-cd programs/
-l
-vim tmp
-rm tmp 
 cd ..
+cd robosub/
+cd auv_states/
 l
-evince 02-stream-v2-annotated.pdf 
+cd include/
+l
+cd auv_states/
+l
+cd t
+l
+cd tasks/
+l
+cd
+cd -
+cl
 cd ../..
-l
-cd ../
-l
-cd studies/
-l
-mkdir cs344
-cd cs344/
-mkdir 1
-cd 1/
 cl
-l
-vim perceptron.py
-cd ..
-cp 1/perceptron.py ./
-l
-rm -fr 1
-l
-cd ..
-k
-ll
-cd cs344/
-git clone git@github.com:kunaltyagi/study-codes.git
-l
-mv perceptron.py study-codes/
-l
-cd study-codes/
-l
-mkdir AI
-mv perceptron.py AI/
-l
-git commit -am "first assignment completed. Percepteron class up and running"
-git add --all ./
-git commit -am "first assignment completed. Percepteron class up and running"
-git push origin 
+ssh bhaskar
+ping 192.168.2.9
+ifconfig 
+cl
 roscd auv_navigation/
 git fetch ssh_origin 
-git checkout newArchitecture 
 git merge ssh_origin/newArchitecture 
-git checkout torpedo_test 
-git checkout vision_tasks_test 
-git merge ssh_origin/vision_tasks_test 
-git checkout  torpedo_test 
-git fetch  ssh_origin 
-cd src/execution_state/
+cm
+cd ..
+vim auv_planner/package.xml 
+vim auv_planner/CMakeLists.txt 
+vim auv_planning/package.xml 
+vim auv_planning/
+vim auv_planner/CMakeLists.txt 
+cm
+cd auv_planner
+vim package.xml 
+fg
+cm
+vim ../auv_planning/package.xml 
+cm
+cd ..
+tree auv_plann*
+cd -
+vim CMakeLists.txt 
+cm
+cd ..
+auv_states
 l
-rm marker_exec.cpp~
-l
-vim marker_exec.cpp 
-vim manipulator_exec.cpp 
+cd auv_states
+vim include/auv_states/scan_state/scan_state.h 
+fg
+cm
+vim include/auv_states/execution_state/execution_state.h 
+fg
+vim include/auv_states/transition_state/transition_server.h 
+cm
+git co -am "compiling"
+git push ssh_origin 
+cd -
+cd src/robosub/
+git hist
 roscd auv_navigation/
-cd src/execution_state/
-l
-vim manipulator_exec.cpp 
-python
-cd workspace/studies/cs344/study-codes/AI/
-py
-python
-exit
-vim perceptron.py
-exit
-cd workspace/studies/cs344/study-codes/AI/
-l
-python
-rm ;bn
-l
-rm \;bn
-l
-python
-vim perceptron.py
-vim elements.py 
-cd workspace/studies/
-l
-rm -fr ae230/
-mv ae\ 230 ae230 -r
-mv ae\ 230 ae230 
-l
-cd ae230/
-l
-vim tek0000ALL.csv 
-exit
-roscore
-exit
-httrack 
-httrack help
-cd websites/
-l
-cd parallax/
-l
-man httrack 
-httrack --continue
-l
-vim /lib/x86_64-linux-gnu/
-exit
-python 
-python
-exir
-exit
-sensors|tail -n +7|head -n 1
-exit
-vim prefix.pyu
-vim prefix.py
-vim polynomial.py 
-exit
-cd workspace/studies/study-codes/algorithms/
-python
-exit
-cd workspace/studies/study-codes/algorithms/
-l
-vim problem 
-exit
-cd
-cd workspace/
-l
-cd tutorial/
-l
-cd ..
-l
-cd code/
-l
-cd ..
-cd studies/
-l
-cd ..
-l
-cd ..
-l
-cd Documents/
-l
-evince internship-assignment.pdf 
-exit
-cd workspace/studies/study-codes/algorithms/
-vim problem 
-exit
-python
-exit
-sensors|tail -n +7|head -n 1
-exit
-ssh bhasky@10.101.201.2
 ifconfig
-ssh bhasky@10.101.201.2
-ssh bhasky@10.101.201.135
-ssh bhasky@10.101.201.135 -oHostKeyAlgorithms='ssh-rsa' -X
-exit
-roscd auv_vision
-cd ..
-git fetch ssh_origin 
-git merge ssh_origin/torpedo_test 
-git checkout simulator 
-git merge ssh_origin/simulator 
-git checkout vision_tasks_test 
-git merge ssh_origin/vision_tasks_test 
-git checkout newArchitecture 
-git merge ssh_origin/newArchitecture 
-git checkout torpedo_test 
-CL
-cl
-cd auv_navigation/
-l
-cd src/execution_state/
-l
-cl
-vim gripper_exec.cpp 
-vim maneuver_exec.cpp 
-exit
-vmail
-exit
-roscore
-exit
-npm install -g bower
-sudo npm install -g bower
-exit
-cd
-cd git/
-cd Moodle_Sync/
-l
-cd CS\ 419
-cd CS\ 419-2013-1\ Introducing\ to\ Machine\ Learning/
-
-cd ..
-cd CS\ 419\ Minor\ Introducing\ to\ Machine\ Learning\ Minor/
-l
-cd ..
-rm -fr AE*
-rm -fr MA*
-rm -fr CS*
-rm -fr EP*
-rm -fr PH\*
-rm -fr PH*
-l
-cd SC\ 201\ Minor\ Mathematical\ Structures\ for\ Systems\ and\ Control\ Minor/
-;
-l
-cd ..
-mv SC\ 201\ Minor\ Mathematical\ Structures\ for\ Systems\ and\ Control\ Minor SC201
-l
-chmod 777 MoodleSync.sh 
-./MoodleSync.sh 
-exit
-cd
-cd workspace/studies/study-codes/algorithms/
-cd ..
-l
-cd .git/
-vim config 
-exit
-cd
-cd workspace/studies/study-codes/
-git push origin 
-ssh ratnesh@10.6.80.43
-exit
-sensors|tail -n +7|head -n 1
-exit
-roscore
-exit
-roscore
-cd workspace/code/sr
-cd workspace/tutorial/coursera/crypto/
-l
-cd programs/
-l
-vim first.py 
-sensors|tail -n +7|head -n 1
-./dotfiles/iitblogin.py 
-sensors|tail -n +7|head -n 1
-./dotfiles/iitblogin.py 
-sensors|tail -n +7|head -n 1
-./dotfiles/iitblogin.py 
-sensors|tail -n +7|head -n 1
-./dotfiles/iitblogin.py 
-sensors|tail -n +7|head -n 1
-exit
-ssh-copy-id matsya 
-cd .ssh/
-l
-vim config 
-ssh-copy-id auv@192.168.2.4
-exit
-ssh matsya 
-wrapper.py sp
-ssh matsya 
-ssh matsya 
-roslaunch matsya_gazebo matsya_buoy.launch 
-ssh matsya
-ssh matsya 
-wrapper.py rpy
-ssh matsya 
-roscd auv_navigation/
-cd src/execution_state/
-l
-vim maneuver_exec.cpp 
+ping 192.168.2.6
+git ch torpedo_test 
+git fetch  ssh_origin 
 cm
-cd ../../../auv_vision_utils/
-touch CATKIN_IGNORE
-cm
-cd ..
-cd microstrain_3dmgx2_imu/
-touch CATKIN_IGNORE
-cd ..
-cm
-ssh matsya
-ssh matsya 
-ssh matsya 
-rosrun auv_imu_driver quaternion_to_rpy 
-ssh matsya
-roscore
-ssh matsya 
-roscore
-exit
-cd
-cd git
-cd Moodle_Sync/
-./MoodleSync.sh 
-cd
-cd Downloads/DC++/Season\ 03
-l
-exit
-cd workspace/
-l
-cd code/
-l
-cd eclipse/
-l
-mkdir cs213
-cd cs213/
-httrack http://ww0.java4.datastructures.net/source/
-l
-google-chrome index.html &
-exit
-cd workspace/code/eclipse/cs213/
-l
-mkdir web
-mv backblue.gif web/
-mv fade.gif web/
-mv hts-cache web/
-mv hts-log.txt web/
-mv index.html  web/
-mv ww0.java4.datastructures.net web/
-l
-exit
-cd workspace/code/eclipse/cs213/
-l
-exit
-cd workspace/code/eclipse/
-l
-cd random/
-l
-cd src/
-l
-cd random/
-l
-vim Try.java 
-exit
-cd
-vim .bash_aliases
-man tar
-resource
-exit
+vim src/execution_state/execution_state.cpp 
+../utils/wrapper.py install
+wrapper.py ssh
+ping 192.168.2.4
+wrapper.py  ssh
+wrapper.py  install
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+rosed auv_navigation execution_state.cpp 
+clear
+wrapper.py ssh
+kill %%
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh
+clear
+wrapper.py ssh

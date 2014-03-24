@@ -11,7 +11,5 @@
     co   = commit
     st   = status
     br   = branch
-# create a read-only server over a network
-    server = daemon --verbose --export-all --base-path=.
-#creare a very bas unencrypted server
-    bad_server = daemon --verbose --export-all --base-path=. --enable=receive-pack ;use git://localhost/repo_name.git as address
+    pu   = push
+    fe   = fetch

@@ -29,12 +29,15 @@ CyanBG="$(tput setab 6)"
 LightCyan="$(tput bold ; tput setaf 6)"
 Reset="$(tput sgr0)"
 Reverse="$(tput rev)"
+
+SELECT="if [ \$? = 0 ]; then echo \":)\"; else echo \":(\"; fi"
 # No Color
 
 #PS1 for git
 #export PS1='\u@\h:\w:$(__git_ps1 "[%s]")\$ '
 #a fancier one
-export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple\]\w\[$Reset$LightGrey\][\d \t]\[$Reset\]\n\[$Reset$LightRed\]\$(__git_ps1 '[%s]')\`if [ \$? -eq 0 ]; then echo \[$Green$Reverse\]':)' ; else echo \[$Red$Reverse\]':('; fi\`\[$Reset\]$ "
+#$export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple\]\w\[$Reset$LightGrey\][\d \t]\[$Reset\]\n\[$Reset$LightRed\]\$(__git_ps1 '[%s]')\`if [ \$? -eq 0 ]; then echo \[$Green$Reverse\]':)' ; else echo \[$Red$Reverse\]':('; fi\`\[$Reset\]$ "
+export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple\]\w\[$Reset$LightGrey\][\d \t]\[$Reset\]\n\[$Reset$LightRed\]\$(__git_ps1 '[%s]') \`${SELECT}\` \[$Reset\]$ "
 
 #PS2 (in long terminal statements, after pressing /)
 export PS2="--> "

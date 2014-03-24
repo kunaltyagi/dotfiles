@@ -117,25 +117,23 @@ if ! shopt -oq posix; then
   fi
 fi
 
-#Proxy settings
+#Git Proxy settings
 if [ -f ~/.git-completion.bash ]; then
-  source ~/.git-completion.bash
+    source ~/.git-completion.bash
 fi
 
 #Git promt change
-if [ -f ~/.bash_prompt.sh ]; then
-    . ~/.bash_prompt.sh
+if [ -f ~/.bash_prompt ]; then
+    . ~/.bash_prompt
 else
     export PS1='\u@\h:\W$(__git_ps1 " (%s)")\$ '
 fi
 #export PS1='\[$(tput setaf 3)\]\u\[$(tput setaf 2)\] @ \[$(tput setaf 4)\]\h: \[$(tput sgr0)$(tput setaf 5)$(tput rev)\]\w\[$(tput sgr0)$(tput bold)$(tput setaf 1)\] $(__git_ps1 "[%s]")\[$(tput sgr0)$(tput setaf 7)\]\n[\d \t] \`if [ \$? = 0 ]; then echo \[$(tput setaf 2)\]':)'; else echo \[$(tput setaf 1)\]':('; fi\` \[$(tput sgr0)\]$ '
 
-#ROS parameters
-export ROS_HOSTNAME=localhost
-export ROS_MASTER_URI=http://localhost:11311
+#put all the exports in the bash profile
 
-source ~/catkin_ws/devel/setup.bash
-source /usr/share/gazebo/setup.sh
+if [ -f ~/.bash_profile ]; then
+    . ~/.bash_profile
+fi
+
 ulimit  -c  unlimited
-export GAZEBO_RESOURCE_PATH=~/catkin_ws/src/robosub/matsya_gazebo/worlds:$GAZEBO_RESOURCE_PATH
-export GAZEBO_MODEL_PATH=~/catkin_ws/src/robosub/matsya_gazebo/models:$GAZEBO_MODEL_PATH
