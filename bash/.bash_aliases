@@ -81,6 +81,8 @@ alias suspend="dbus-send --system --print-reply --dest="org.freedesktop.UPower" 
 alias notify="notify_new"
 alias antlr4='java -jar /usr/local/lib/antlr-4.2-complete.jar'
 alias grun='java org.antlr.v4.runtime.misc.TestRig'
+alias gre='grep -nHT --color $@'
+alias py='python'
 
 azsdcd_tmp_errorProne()
 {
