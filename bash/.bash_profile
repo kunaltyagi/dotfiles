@@ -1,7 +1,6 @@
 #ROS parameters
 export ROS_HOSTNAME=localhost
 export ROS_MASTER_URI=http://localhost:11311
-
 source ~/catkin_ws/devel/setup.bash
 source /usr/share/gazebo/setup.sh
 
@@ -25,3 +24,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$EUROPA_HOME/lib      # DYLD_LIBRARY_PAT
 
 #Antlr3
 export CLASSPATH=".:/usr/local/lib/antlr-4.2-complete.jar:$CLASSPATH"
+
+#JAVA
+export JRE_HOME=/usr/java/jre1.7.0_51
+export PATH=$PATH:$HOME/bin:$JRE_HOME/bin
