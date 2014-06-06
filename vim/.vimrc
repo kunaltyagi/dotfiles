@@ -16,12 +16,8 @@ set expandtab
 set smartindent
 set number
 set pastetoggle=<F3>
-set hidden
-set ignorecase
-set smartcase
 set smarttab
 set hlsearch
-set incsearch
 set history=1000
 set undolevels=1000
 set wildignore=*.swp,*.bak,*.pyc,*.class,*.o
@@ -30,6 +26,37 @@ set visualbell
 set noerrorbells
 set list
 set listchars=tab:>.,trail:.,extends:#,nbsp:.
+set showcmd             " Show (partial) command in status line.
+set showmatch           " Show matching brackets.
+set ignorecase          " Do case insensitive matching
+set smartcase           " Do smart case matching
+set incsearch           " Incremental search
+set hidden              " Hide buffers when they are abandoned
+" Status bar begin
+set laststatus=2
+set statusline=                                 "clear the status line
+set statusline+=%-3.3n\                         " buffer number
+set statusline+=%#todo#                         "todo color
+set statusline+=%F                              "full filename
+set statusline+=%*                              "normal color
+"set statusline=%t                               "tail of the filename
+set statusline+=[%{strlen(&fenc)?&fenc:'none'}, "file encoding
+set statusline+=%{&ff}]                         "file format
+set statusline+=%#error#                        "error color
+set statusline+=%h                              "help file flag
+set statusline+=%m                              "modified flag
+set statusline+=%r                              "read only flag
+set statusline+=%w                              "preview flag
+set statusline+=%*                              "normal color
+set statusline+=%y                              "filetype
+set statusline+=%=                              "left/right separator
+set statusline+=%{synIDattr(synID(line('.'),col('.'),1),'name')}\  "highlight current word type
+set statusline+=%c,                             "cursor column
+set statusline+=%V                              "virtual cursor column
+set statusline+=%l/%L                           "cursor line/total lines
+set statusline+=\ %P                            "percent through file
+" Status bar end
+
 autocmd filetype html,xml set listchars-=tab:>.
 nnoremap ; :
 inoremap jk <Esc>
@@ -51,15 +78,9 @@ cnoreabbrev <expr> w!!
                 \((getcmdtype() == ':' && getcmdline() == 'w!!')
                 \?('!sudo tee % >/dev/null'):('w!!'))
 if has("autocmd")
-	filetype plugin indent on
+    filetype plugin indent on
 endif
 
-	set showcmd             " Show (partial) command in status line.
-	set showmatch           " Show matching brackets.
-	set ignorecase          " Do case insensitive matching
-	set smartcase           " Do smart case matching
-	set incsearch           " Incremental search
-	set hidden              " Hide buffers when they are abandoned
 
 " or BufWritePost : immediately update changes after saving.
 au BufLeave ~/.vimrc :source ~/.vimrc
