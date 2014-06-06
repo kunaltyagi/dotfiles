@@ -26,5 +26,6 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$EUROPA_HOME/lib      # DYLD_LIBRARY_PAT
 export CLASSPATH=".:/usr/local/lib/antlr-4.2-complete.jar:$CLASSPATH"
 
 #JAVA
-export JRE_HOME=/usr/java/jre1.7.0_51
+export JAVA_HOME=/usr/local/java/jdk1.8.0_05
+export JRE_HOME=/usr/local/java/jre1.8.0_05
 export PATH=$PATH:$HOME/bin:$JRE_HOME/bin

@@ -49,7 +49,7 @@ com=("ssh" "-t" "${@:1:$(($#-1))}" "${t%:*}" "cd ${t##*:}; \$SHELL -l")
 "${com[@]}"
 }
 
-alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text & > /dev/null"
+# alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text & > /dev/null"
 alias arduino="~/programs/arduino-0023/arduino"
 alias ps="ps aux"
 alias resource="source ~/.bashrc"

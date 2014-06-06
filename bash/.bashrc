@@ -137,3 +137,6 @@ if [ -f ~/.bash_profile ]; then
 fi
 
 ulimit  -c  unlimited
+
+# for colorful man pages, use most instead of less :P
+#export PAGER="/usr/bin/most -s"

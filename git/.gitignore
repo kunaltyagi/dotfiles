@@ -1,7 +1,17 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Potentially needless build filesw
+build/
+bin/
+devel/
+
+# For ROS
+CATKIN_IGNORE
+
+# Stored data for playback in ROS
+bag/
+
+# ROS messages and services, may not be needed
+msg_gen/
+srv_gen/
 
 # Compiled Dynamic libraries
 *.so
@@ -11,3 +21,55 @@
 *.lai
 *.la
 *.a
+
+# ML data
+test_data
+test_data.scale
+
+#Latex
+*.aux
+*.log
+*.dvi
+*.pdf
+
+#Hidden files
+.*
+
+#Tmp files
+*.tmp
+*.swp
+*.swo
+*.swn
+*.swm
+*~
+
+# Backup files, remove at will
+*.bkp
+*.backup
+
+#Qt files ??
+
+
+# Compiled Object files
+*.lst
+*.hex
+*.slo
+*.lo
+*.o
+*.sym
+*.lss
+*.eep
+*.elf
+*.hex
+*.map
+
+#parser compiled files
+lex.yy.c
+y.tab.h
+y.tab.c
+
+# Specific binary files in random locations
+matsya_parser
+parser
+core
+a.out
