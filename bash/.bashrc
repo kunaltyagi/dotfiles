@@ -136,6 +136,13 @@ if [ -f ~/.bash_profile ]; then
     . ~/.bash_profile
 fi
 
+# for ROBOSUB
+util_path=$(rospack find auv_system_utils)
+util_path=$util_path"/../utils/wrapper-completion.bash"
+if [ -f $util_path ]; then
+    . $util_path
+fi
+
 ulimit  -c  unlimited
 
 # for colorful man pages, use most instead of less :P
