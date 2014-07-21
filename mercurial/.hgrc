@@ -1,0 +1,20 @@
+[ui]
+editor = vim
+username = Kunal Tyagi <kunaltyagi.gsoc@gmail.com>
+verbose = True
+traceback = True
+
+[diff]
+git = True
+showfunc = True
+
+[email]
+from = Kunal Tyagi <tyagi.kunal@live.com>
+
+[extensions]
+progress = 
+prompt = ~/workspace/hg-prompt/prompt.py\
+
+[graph]
+default.width = 2
+default.color = FF0000
