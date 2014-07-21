@@ -2,7 +2,6 @@
 editor = vim
 username = Kunal Tyagi <kunaltyagi.gsoc@gmail.com>
 verbose = True
-traceback = True
 
 [diff]
 git = True
@@ -12,8 +11,8 @@ showfunc = True
 from = Kunal Tyagi <tyagi.kunal@live.com>
 
 [extensions]
-progress = 
-prompt = ~/workspace/hg-prompt/prompt.py\
+progress =
+prompt = ~/workspace/hg-prompt/prompt.py
 
 [graph]
 default.width = 2
