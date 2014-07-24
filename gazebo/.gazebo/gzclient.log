@@ -1,0 +1,5 @@
+[1401311137 722396242] Failed to create connection to remote host[localhost:11345]
+[1401311142 243240239] Invalid filename or directory["/home/bhasky/auv_ws/src/robosub/matsya_description/urdf/robots/matsya.urdf"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+[1401311142 243282138] Invalid filename or directory["/home/bhasky/auv_ws/src/robosub/matsya_description/urdf/robots/torpedo_left.model"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+[1401311142 243302216] Invalid filename or directory["/home/bhasky/auv_ws/src/robosub/matsya_description/urdf/robots/torpedo_right.model"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+[1401311142 243587843] Invalid filename or directory["/home/bhasky/auv_ws/src/robosub/matsya_gazebo/models/CMakeLists.txt"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.

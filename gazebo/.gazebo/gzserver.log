@@ -1,0 +1,31 @@
+[1403913735 600512216] Gazebo multi-robot simulator, version 1.9.5
+Copyright (C) 2014 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+[1403913737 463310212] ODE body for link [link] does not exist, GetGravityMode returns default of 0
+[1403913737 463372657] ODE body for link [link] does not exist, GetKinematic returns default of 0
+[1403913737 463385481] ODE body for link [link] does not exist, GetEnabled returns default of 1
+[1403913737 463732761] ODE body for link [link] does not exist, unable to SetEnabled
+[1403913737 503599576] ODE body for link [base_link] does not exist, GetGravityMode returns default of 0
+[1403913737 503638817] ODE body for link [base_link] does not exist, GetKinematic returns default of 0
+[1403913737 503646567] ODE body for link [base_link] does not exist, GetEnabled returns default of 1
+[1403913737 505071472] ODE body for link [link] does not exist, unable to SetEnabled
+[1403913737 505100739] ODE body for link [base_link] does not exist, unable to SetEnabled
+[1403913738 231156241] applying Gaussian noise model with mean 0.01 and stddev 0.005
+[1403913738 380532974] applying Gaussian noise model with mean 0.01 and stddev 0.005
+[1403913738 409158796] ODE body for link [link] does not exist, unable to respond to OnPoseChange
+[1403913738 409256782] ODE body for link [link] does not exist, unable to SetKinematic
+[1403913738 409288386] ODE body for link [link] does not exist, unable to SetGravityMode
+[1403913738 409321854] ODE body for link [link] does not exist, unable to SetLinearDamping
+[1403913738 409341617] ODE body for link [link] does not exist, unable to SetAngularDamping
+[1403913738 409378679] ODE body for link [link] does not exist, unable to respond to OnPoseChange
+[1403913738 409529406] ODE body for link [link] does not exist, unable to place collision bodies in ODELink::Init
+[1403913738 409544004] ODE body for link [link] does not exist, unable to UpdateMass
+[1403913738 409550721] ODE body for link [link] does not exist, unable to set callbacks in ODELink::Init
+[1403913738 409561937] ODE body for link [base_link] does not exist, unable to respond to OnPoseChange
+[1403913747 573531208] World::Init
+[1403913747 644520689] ODE body for link [link] does not exist, GetGravityMode returns default of 0
+[1403913747 644560962] ODE body for link [link] does not exist, GetKinematic returns default of 0
+[1403913747 644569476] ODE body for link [link] does not exist, GetEnabled returns default of 1
