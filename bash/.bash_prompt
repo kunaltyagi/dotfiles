@@ -42,7 +42,7 @@ fi
 
 hg_ps1()
 {
-    hg prompt "{<{branch}>}" 2> /dev/null
+    hg prompt "{<{branch}{ - {bookmark}}>}{status}" 2> /dev/null
     #hg prompt "{<{branch}{ - {bookmark} }{status}{update}>}" 2> /dev/null
 }
 
