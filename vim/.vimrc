@@ -94,4 +94,6 @@ iabbrev @@ thekunaltyagi@yahoo.com
 autocmd FileType c,cpp,java,php autocmd BufWritePre <buffer> :%s/\s\+$//e
 " End Update
 
+command maxima :%s/$/;/g
+
 " End .vimrc
