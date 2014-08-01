@@ -62,6 +62,7 @@ nnoremap ; :
 inoremap jk <Esc>
 inoremap jjjjj <Esc>
 inoremap kkkkk <Esc>
+inoremap <leader>; <C-o>m`<C-o>A;<C-o>``
 vmap Q gq
 nmap Q gqap
 map <up> <nop>
