@@ -62,6 +62,7 @@ nnoremap ; :
 inoremap jk <Esc>
 inoremap jjjjj <Esc>
 inoremap kkkkk <Esc>
+inoremap <leader>; <C-o>m`<C-o>A;<C-o>``
 vmap Q gq
 nmap Q gqap
 map <up> <nop>
@@ -92,5 +93,7 @@ iabbrev @@ thekunaltyagi@yahoo.com
 " Remove trailing white spaces in files
 autocmd FileType c,cpp,java,php autocmd BufWritePre <buffer> :%s/\s\+$//e
 " End Update
+
+command maxima :%s/$/;/g
 
 " End .vimrc
