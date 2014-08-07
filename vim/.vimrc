@@ -90,6 +90,7 @@ au BufLeave ~/.vimrc :source ~/.vimrc
 iabbrev ssig -- <cr>Kunal Tyagi<cr>tyagi.kunal@live.com
 iabbrev ssign Kunal Tyagi "tyagi.kunal@live.com"
 iabbrev @@ thekunaltyagi@yahoo.com
+iab <expr> DTS strftime("%c")
 
 " Remove trailing white spaces in files
 autocmd FileType c,cpp,java,php autocmd BufWritePre <buffer> :%s/\s\+$//e
