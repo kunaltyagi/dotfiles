@@ -83,7 +83,8 @@ alias notify="notify_new"
 alias antlr4='java -jar /usr/local/lib/antlr-4.2-complete.jar'
 alias grun='java org.antlr.v4.runtime.misc.TestRig'
 alias gre='grep -nHT --color $@'
-alias py='python'
+alias py='python'   # python 2.7.3 as of now
+alias py3='python3.4'   # infinite temporary alias
 alias iso_mount='sudo mount -t iso9660 -o ro $@ /media/iso'
 
 azsdcd_tmp_errorProne()
