@@ -86,6 +86,7 @@ alias gre='grep -nHT --color $@'
 alias py='python'   # python 2.7.3 as of now
 alias py3='python3.4'   # infinite temporary alias
 alias iso_mount='sudo mount -t iso9660 -o ro $@ /media/iso'
+alias pathogen_install="mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim"
 
 azsdcd_tmp_errorProne()
 {

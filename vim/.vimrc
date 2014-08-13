@@ -57,6 +57,9 @@ set statusline+=%l/%L                           "cursor line/total lines
 set statusline+=\ %P                            "percent through file
 " Status bar end
 
+" Pathogen plugin
+execute pathogen#infect()
+
 autocmd filetype html,xml set listchars-=tab:>.
 nnoremap ; :
 inoremap jk <Esc>
