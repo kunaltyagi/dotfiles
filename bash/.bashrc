@@ -47,12 +47,12 @@ esac
 
 if [ -n "$force_color_prompt" ]; then
     if [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then
-	# We have color support; assume it's compliant with Ecma-48
-	# (ISO/IEC-6429). (Lack of such support is extremely rare, and such
-	# a case would tend to support setf rather than setaf.)
-	color_prompt=yes
+    # We have color support; assume it's compliant with Ecma-48
+    # (ISO/IEC-6429). (Lack of such support is extremely rare, and such
+    # a case would tend to support setf rather than setaf.)
+    color_prompt=yes
     else
-	color_prompt=
+    color_prompt=
     fi
 fi
 
@@ -147,3 +147,9 @@ ulimit  -c  unlimited
 
 # for colorful man pages, use most instead of less :P
 #export PAGER="/usr/bin/most -s"
+
+# For intensive testing
+# export ROS_MASTER_URI=http://192.168.3.4:11311/
+# export ROS_HOSTNAME=192.168.3.5
+# export ROS_IP=192.168.3.5
+
