@@ -24,3 +24,5 @@
     autocorrect = 0
 [color]
     ui = true
+[push]
+    default = simple
