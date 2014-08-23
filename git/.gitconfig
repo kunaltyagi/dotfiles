@@ -16,6 +16,7 @@
     br   = branch
     pu   = push
     fe   = fetch
+    up   = fetch
     di   = diff -w
     sh   = stash
 [core]
