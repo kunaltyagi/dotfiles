@@ -1,6 +1,6 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/kunaltyagi/.config/Nokia'
-let g:netrw_dirhist_2='/home/kunaltyagi/.config/menus'
-let g:netrw_dirhist_3='/home/kunaltyagi/.config'
-let g:netrw_dirhist_4='/home/kunaltyagi/.config/terminator'
+let g:netrw_dirhist_1='/home/kunaltyagi/Downloads/gz/.gazebo/pictures'
+let g:netrw_dirhist_2='/home/kunaltyagi/catkin_ws/src/robosub/auv_map/maps'
+let g:netrw_dirhist_3='/home/kunaltyagi/workspace/eras/servers/gazebo/plugins'
+let g:netrw_dirhist_4='/home/kunaltyagi/workspace/nsiqcppstyle/rules'
