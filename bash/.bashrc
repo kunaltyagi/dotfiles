@@ -153,3 +153,5 @@ ulimit  -c  unlimited
 # export ROS_HOSTNAME=192.168.3.5
 # export ROS_IP=192.168.3.5
 
+alias nsiqcppstyle="/home/kunaltyagi/workspace/nsiqcppstyle/nsiqcppstyle $@"
+
