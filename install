@@ -1,0 +1,10 @@
+#! /usr/bin/bash
+
+echo "Copying bash config files"
+cp bash/.bash* ~/
+
+echo "Copying vimrc files"
+cp vim/.vimrc ~/
+
+echo "Copying gitconfig files"
+cp git/.gitconfig ~/

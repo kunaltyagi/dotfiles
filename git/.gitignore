@@ -3,6 +3,12 @@ build/
 bin/
 devel/
 
+# Needless version files
+.hg/
+.git/
+.svn/
+CVS/
+
 # For ROS
 CATKIN_IGNORE
 
@@ -48,7 +54,7 @@ test_data.scale
 *.backup
 
 #Qt files ??
-
+*.pro
 
 # Compiled Object files
 *.lst

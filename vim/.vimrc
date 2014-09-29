@@ -63,8 +63,15 @@ execute pathogen#infect()
 nnoremap ; :
 imap <F4> <C-v><tab>
 inoremap jk <Esc>
+inoremap JK <Esc>
+inoremap HHHHH <Esc>
+inoremap JJJJJ <Esc>
+inoremap KKKKK <Esc>
+inoremap LLLLL <Esc>
+inoremap hhhhh <Esc>
 inoremap jjjjj <Esc>
 inoremap kkkkk <Esc>
+inoremap lllll <Esc>
 nmap <F5> i<C-R>=strftime("%Y-%m-%d %a %I:%M %p")<CR><Esc>
 imap <F5> <C-R>=strftime("%Y-%m-%d %a %I:%M %p")<CR>
 vmap Q gq
