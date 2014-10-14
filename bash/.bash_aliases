@@ -1,5 +1,10 @@
 #! /bin/bash
 
+# SSH auto-completion based on entries in known_hosts.
+if [[ -e ~/.ssh/known_hosts ]]; then
+    complete -o default -W "$(cat ~/.ssh/known_hosts | sed 's/[, ].*//' | sort | uniq | grep -v '[0-9]')" ssh scp sftp
+fi
+
 catkin_make_new()
 {
     x=$PWD;
@@ -51,6 +56,7 @@ com=("ssh" "-t" "${@:1:$(($#-1))}" "${t%:*}" "cd ${t##*:}; \$SHELL -l")
 }
 
 # alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text & > /dev/null"
+alias filesize="stat -f '%z bytes'"
 alias arduino="~/programs/arduino-0023/arduino"
 alias ps="ps aux"
 alias resource="source ~/.bashrc"
