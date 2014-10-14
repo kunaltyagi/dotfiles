@@ -34,7 +34,7 @@
     added = yellow
     changed = green
     untracked = cyan
- [core]
+[core]
     editor = vim
     autocrlf = input
     whitespace = fix,space-before-tab,tab-in-indent,trailing-space
@@ -63,4 +63,4 @@
     insteadOf = "gist:"
 [url "git@heroku.com:"]
     insteadOf = "heroku:"
-    
+
