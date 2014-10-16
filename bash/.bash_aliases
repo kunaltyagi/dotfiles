@@ -1,10 +1,5 @@
 #! /bin/bash
 
-# SSH auto-completion based on entries in known_hosts.
-if [[ -e ~/.ssh/known_hosts ]]; then
-    complete -o default -W "$(cat ~/.ssh/known_hosts | sed 's/[, ].*//' | sort | uniq | grep -v '[0-9]')" ssh scp sftp
-fi
-
 catkin_make_new()
 {
     x=$PWD;
@@ -48,6 +43,12 @@ study_mode()
     cd ~/workspace/studies;
     if [ $x ]; then cd $x; fi;
 }
+
+# SSH auto-completion based on entries in known_hosts.
+if [[ -e ~/.ssh/known_hosts ]]; then
+    complete -o default -W "$(cat ~/.ssh/known_hosts | sed 's/[, ].*//' | sort | uniq | grep -v '[0-9]')" ssh scp sftp
+fi
+
 ssh_cd()
 {
 t="${!#}"   #store the args to the command
@@ -56,7 +57,6 @@ com=("ssh" "-t" "${@:1:$(($#-1))}" "${t%:*}" "cd ${t##*:}; \$SHELL -l")
 }
 
 # alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text & > /dev/null"
-alias filesize="stat -f '%z bytes'"
 alias arduino="~/programs/arduino-0023/arduino"
 alias ps="ps aux"
 alias resource="source ~/.bashrc"
@@ -74,7 +74,7 @@ alias check_temp="sudo sensors ; sudo hddtemp /dev/sda"
 alias kz="kill %%"
 alias random_alpha="apg"
 alias shortcut="sudo ln -s $@"
-alias matlab="sudo /usr/local/MATLAB/R2013a/bin/matlab"
+alias matlab="/usr/local/MATLAB/R2013a/bin/matlab"
 alias temperature="sensors|tail -n +3|head -n 1|awk '{print $4}'|grep -o -E [0-9]+\.[0-9]+|head -n 1"
 alias study="study_mode"
 alias delete="trash-rm"
@@ -91,9 +91,14 @@ alias grun='java org.antlr.v4.runtime.misc.TestRig'
 alias gre='grep -nHT --color $@'
 alias py='python'   # python 2.7.3 as of now
 alias py3='python3.4'   # infinite temporary alias
+alias ipy='ipython notebook --pylab=inline'
 alias iso_mount='sudo mount -t iso9660 -o ro $@ /media/iso'
 alias pathogen_install="mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim"
+alias copy='xclip -selection c'
+alias cpplint='python /home/kunaltyagi/catkin_ws/src/robosub/utils/cpplint.py $@'
+alias filesize="stat -f '%z bytes'"
 alias fuck='sudo $(history -p \!\!)' #F this S***, am going sudo
+
 
 azsdcd_tmp_errorProne()
 {
