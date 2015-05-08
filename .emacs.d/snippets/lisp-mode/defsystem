@@ -1,0 +1,12 @@
+#defsystem
+# --
+(defsystem ${1:`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`}
+  :author "$2"
+  :license "$3"
+  :description "$4"
+
+  :depends-on ($0)
+  :components
+  ((:module "src"
+            :components
+            ((:file "package")))))
