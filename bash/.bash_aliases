@@ -43,6 +43,12 @@ study_mode()
     cd ~/workspace/studies;
     if [ $x ]; then cd $x; fi;
 }
+flash() 
+{
+    while true; 
+        do printf \\e[?5h; sleep 0.1; printf \\e[?5l; read -s -n1 -t1 && break; 
+    done; 
+}
 
 # SSH auto-completion based on entries in known_hosts.
 if [[ -e ~/.ssh/known_hosts ]]; then
@@ -63,7 +69,7 @@ alias resource="source ~/.bashrc"
 alias cm="catkin_make_new"
 alias screensaver='gconftool-2 --type bool --set /apps/gnome-screensaver/idle_activation_enabled "false"'
 alias fortunecow='fortune|cowsay'
-alias windows='sudo mount -t ntfs-3g -o ro /dev/sda3/ /media/Alien\ OS/'
+alias windows='sudo mount -t ntfs-3g -o ro /dev/sda3/ /media/kunaltyagi/winOS/'
 alias bcd='cd ~/.bin/.bin'
 alias matsya="terminator -l ros -p sun"
 alias ros="terminator -l ros"
@@ -95,10 +101,13 @@ alias ipy='ipython notebook --pylab=inline'
 alias iso_mount='sudo mount -t iso9660 -o ro $@ /media/iso'
 alias pathogen_install="mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim"
 alias copy='xclip -selection c'
-alias cpplint='python /home/kunaltyagi/catkin_ws/src/robosub/utils/cpplint.py $@'
+alias clint='python /home/kunaltyagi/catkin_ws/src/robosub/auv_utils/src/lint/cpp/cpplint.py $@'
 alias filesize="stat -f '%z bytes'"
 alias fuck='sudo $(history -p \!\!)' #F this S***, am going sudo
-
+alias mendeley='~/local/mendeley/bin/mendeleydesktop'
+alias tecplot='/usr/local/tecplot350ex/bin/tec360'
+alias robosync='x=$PWD; roscd robosub; git fetch origin; cd $x'
+alias em='emacs -nw'
 
 azsdcd_tmp_errorProne()
 {
