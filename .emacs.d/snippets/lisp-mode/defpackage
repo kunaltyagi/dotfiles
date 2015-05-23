@@ -1,0 +1,6 @@
+#defpackage
+# --
+(defpackage $1
+    (:documentation "$2")
+  (:use #:common-lisp $0)
+  (:export))

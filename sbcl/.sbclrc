@@ -1,0 +1,7 @@
+
+;;; asdf source registry entries
+(require 'asdf)
+(pushnew #p"/home/gaya/workspace/catkin/install/share/common-lisp/source/"
+         asdf:*central-registry* :test #'equal)
+(pushnew #p"/home/gaya/workspace/catkin/install/share/common-lisp/source/slime/"
+         asdf:*central-registry* :test #'equal)
