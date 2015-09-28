@@ -137,11 +137,6 @@ if [ -f ~/.bash_profile ]; then
 fi
 
 # for ROBOSUB
-util_path=$(rospack find auv_system_utils)
-util_path=$util_path"/../utils/wrapper-completion.bash"
-if [ -f $util_path ]; then
-    . $util_path
-fi
 
 ulimit  -c  unlimited
 
@@ -152,6 +147,3 @@ ulimit  -c  unlimited
 # export ROS_MASTER_URI=http://192.168.3.4:11311/
 # export ROS_HOSTNAME=192.168.3.5
 # export ROS_IP=192.168.3.5
-
-alias nsiqcppstyle="/home/kunaltyagi/workspace/nsiqcppstyle/nsiqcppstyle $@"
-

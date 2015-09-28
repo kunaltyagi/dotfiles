@@ -62,14 +62,19 @@ com=("ssh" "-t" "${@:1:$(($#-1))}" "${t%:*}" "cd ${t##*:}; \$SHELL -l")
 "${com[@]}"
 }
 
+# alias to rotate the screen
+alias rotate="xrandr --output eDP1 --rotate $@"  # normal, inverted, right, left
+
 # alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text & > /dev/null"
+alias error_code="shuf -i 0-99999999 -n 1"
 alias arduino="~/programs/arduino-0023/arduino"
 alias ps="ps aux"
 alias resource="source ~/.bashrc"
 alias cm="catkin_make_new"
 alias screensaver='gconftool-2 --type bool --set /apps/gnome-screensaver/idle_activation_enabled "false"'
 alias fortunecow='fortune|cowsay'
-alias windows='sudo mount -t ntfs-3g -o ro /dev/sda3/ /media/kunaltyagi/winOS/'
+alias windows='sudo mount -t ntfs-3g -o ro /dev/sda5/ /media/kunaltyagi/OS/'
+alias win_share='sudo mount -t ntfs-3g -o ro /dev/sda6/ /media/kunaltyagi/Share/'
 alias bcd='cd ~/.bin/.bin'
 alias matsya="terminator -l ros -p sun"
 alias ros="terminator -l ros"

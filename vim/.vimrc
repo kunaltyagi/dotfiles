@@ -57,7 +57,7 @@ set statusline+=\ %P                            "percent through file
 " Status bar end
 
 " Pathogen plugin
-execute pathogen#infect()
+"execute pathogen#infect()
 
 " Remapping
 nnoremap ; :

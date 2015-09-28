@@ -2,8 +2,7 @@
 export ROS_HOSTNAME=localhost
 export ROS_MASTER_URI=http://localhost:11311
 source ~/catkin_ws/devel/setup.bash
-source /usr/share/gazebo/setup.sh
-source ~/catkin_ws/src/robosub/utils/wrapper-completion.bash
+#source /usr/share/gazebo/setup.sh
 
 #Gazebo
 export GAZEBO_RESOURCE_PATH=~/catkin_ws/src/robosub/matsya_gazebo/worlds:$GAZEBO_RESOURCE_PATH
