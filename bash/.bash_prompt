@@ -59,9 +59,9 @@ git_ps1()
 #PS1 for git
 #export PS1='\u@\h:\w:$(__git_ps1 "[%s]")\$ '
 #a fancier one
-#$export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple\]\w\[$Reset$LightGrey\][\d \t]\[$Reset\]\n\[$Reset$LightRed\]\$(__git_ps1 '[%s]')\`if [ \$? -eq 0 ]; then echo \[$Green$Reverse\]':)' ; else echo \[$Red$Reverse\]':('; fi\`\[$Reset\]$ "
 # export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple\]\w\[$Reset$LightGrey\][\d \t]\[$Reset\]\n\[$Reset$LightRed\]\$(__git_ps1 '[%s]') \`${SELECT}\` \[$Reset\]$ "
-export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']')\[$Reset$LightBlue\]\$(hg_ps1) \[$Reset\]$ "
+# export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']')\[$Reset$LightBlue\]\$(hg_ps1) \[$Reset\]$ "
+export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo \[$Green\]':) '; else echo \[$Red\]':( ';fi\`\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']')\[$Reset$LightBlue\]\$(hg_ps1) \[$Reset\]$ "
 # export PS1="\w`hg prompt "[{branch}{status}{update}]" 2>/dev/null` $"
 
 #PS2 (in long terminal statements, after pressing /)
