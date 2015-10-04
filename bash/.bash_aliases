@@ -5,8 +5,9 @@ catkin_make_new()
     x=$PWD;
     roscd;
     cd ..;
-    catkin_make "$@";
+    catkin_make "$@" 2> $x'/error_log.o';
     cd $x;
+    if [ `wc -l error_log.o | awk '{ print $1 }'` -ne 0 ]; then vim error_log.o; else rm error_log.o; fi;
 }
 cdl()
 {
