@@ -7,6 +7,8 @@
 "     use <space> to toggle folds in normal mode
 "     use ; not : for commands
 
+let mapleader=";"       " set ; key as the mapleader
+
 " Vundle {{{
 " Setup {{{
 set nocompatible              " be iMproved, required
@@ -35,11 +37,19 @@ Plugin 'reedes/vim-thematic'
 Plugin 'majutsushi/tagbar'
 " Better undo
 Plugin 'sjl/gundo.vim'
+" Markdown Syntax
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
+" Navigation Tree
+Plugin 'scrooloose/nerdtree'
+Plugin 'Xuyuanp/nerdtree-git-plugin'
 
 " TODO
 " Generate tags (install exuberant-ctags first)
 " Plugin 'xolox/vim-easytags'
 " Plugin 'szw/vim-tags'
+" Syntax
+" Plugin 'scrooloose/syntastic'
 
 "}}}
 " Cleanup {{{
@@ -67,6 +77,7 @@ let g:ctrlp_switch_buffer = 0
 let g:ctrlp_working_path_mode = 0
 let g:ctrlp_user_command = 'ag %s -l --nocolor --hidden -g ""'
 let g:ctrlp_working_path_mode = 'ra'
+
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip     " MacOSX/Linux
 " set wildignore+=*\\tmp\\*,*.swp,*.zip,*.exe  " Windows
 " let g:ctrlp_custom_ignore = '\v[\/]\.(git|hg|svn)$'
@@ -88,6 +99,52 @@ let g:thematic#theme_name = 'ron'
 " }}}
 " Gundo {{{
 nnoremap <leader>u :GundoToggle<CR>
+" }}}
+" Syntastic {{{
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+let g:syntastic_quiet_messages = { "type": "syntax" } " For catkin_ws, it fucks up the warnings
+" }}}
+" Markdown {{{
+let g:vim_markdown_math=1
+let g:vim_markdown_frontmatter=1
+" }}}
+" NERDTree {{{
+" NERDTress File highlighting
+function! NERDTreeHighlightFile(extension, fg, bg, guifg, guibg)
+ exec 'autocmd FileType nerdtree highlight ' . a:extension .' ctermbg='. a:bg .' ctermfg='. a:fg .' guibg='. a:guibg .' guifg='. a:guifg
+ exec 'autocmd FileType nerdtree syn match ' . a:extension .' #^\s\+.*'. a:extension .'$#'
+endfunction
+
+call NERDTreeHighlightFile('jade', 'green', 'none', 'green', '#151515')
+call NERDTreeHighlightFile('ini', 'yellow', 'none', 'yellow', '#151515')
+call NERDTreeHighlightFile('md', 'blue', 'none', '#3366FF', '#151515')
+call NERDTreeHighlightFile('yml', 'yellow', 'none', 'yellow', '#151515')
+call NERDTreeHighlightFile('config', 'yellow', 'none', 'yellow', '#151515')
+call NERDTreeHighlightFile('conf', 'yellow', 'none', 'yellow', '#151515')
+call NERDTreeHighlightFile('json', 'yellow', 'none', 'yellow', '#151515')
+call NERDTreeHighlightFile('cpp', 'yellow', 'none', 'yellow', '#151515')
+call NERDTreeHighlightFile('styl', 'cyan', 'none', 'cyan', '#151515')
+call NERDTreeHighlightFile('css', 'cyan', 'none', 'cyan', '#151515')
+call NERDTreeHighlightFile('coffee', 'Red', 'none', 'red', '#151515')
+call NERDTreeHighlightFile('js', 'Red', 'none', '#ffa500', '#151515')
+call NERDTreeHighlightFile('php', 'Magenta', 'none', '#ff00ff', '#151515')
+
+let g:NERDTreeIndicatorMapCustom = {
+    \ "Modified"  : "✹",
+    \ "Staged"    : "✚",
+    \ "Untracked" : "✭",
+    \ "Renamed"   : "➜",
+    \ "Unmerged"  : "═",
+    \ "Deleted"   : "✖",
+    \ "Dirty"     : "✗",
+    \ "Clean"     : "✔︎",
+    \ "Unknown"   : "?"
+    \ }
+
+nnoremap <leader>nav :NERDTreeToggle<CR>
 " }}}
 " }}}
 
@@ -133,7 +190,7 @@ set smartcase           " Do smart case matching
 set incsearch           " Incremental search
 set hlsearch            " Highlight all matches
 " remove highlighted matches
-nnoremap <leader><space> :nohlsearch<CR>
+nnoremap <leader>rm :nohlsearch<CR>
 " }}}
 
 " UI {{{
@@ -174,30 +231,8 @@ set listchars=tab:».,trail:.,precedes:<,extends:>,nbsp:.
 "execute pathogen#infect()
 " }}}
 
-" Remapping {{{
-let mapleader=";"       " set ; key as the mapleader
-" swap ; and : functions <WARN>
-nnoremap ; :
-nnoremap : ;
-
-" Insert TAB by choice
-imap <F4> <C-v><tab>
-
-" Easy exit into normal mode fron insert mode
-inoremap jk <Esc>
-inoremap JK <Esc>
-inoremap HHHHH <Esc>
-inoremap JJJJJ <Esc>
-inoremap KKKKK <Esc>
-inoremap LLLLL <Esc>
-inoremap hhhhh <Esc>
-inoremap jjjjj <Esc>
-inoremap kkkkk <Esc>
-inoremap lllll <Esc>
-" }}}
-
 " Ctrl+V {{{
-" Use F3 to toggle the use of system clipboard for pasting
+" Use F3 to toggle the use of verbatim pasting mode
 set pastetoggle=<F3>
 " }}}
 
@@ -290,12 +325,38 @@ set statusline+=%r                              "read only flag
 set statusline+=%w                              "preview flag
 set statusline+=%*                              "normal color
 set statusline+=%y                              "filetype
+" Syntastic {{{
+"set statusline+=%#warningmsg#
+"set statusline+=%{SyntasticStatuslineFlag()}
+"set statusline+=%*
+" }}}
 set statusline+=%=                              "left/right separator
 set statusline+=%{synIDattr(synID(line('.'),col('.'),1),'name')}\  "highlight current word type
 set statusline+=%c,                             "cursor column
 set statusline+=%V                              "virtual cursor column
 set statusline+=%l/%L                           "cursor line/total lines
 set statusline+=\ %P                            "percent through file
+" }}}
+
+" Remapping {{{
+" swap ; and : functions <WARN>
+nnoremap ; :
+nnoremap : ;
+
+" Insert TAB by choice
+imap <F4> <C-v><tab>
+
+" Easy exit into normal mode fron insert mode
+inoremap jk <Esc>
+inoremap JK <Esc>
+inoremap HHHHH <Esc>
+inoremap JJJJJ <Esc>
+inoremap KKKKK <Esc>
+inoremap LLLLL <Esc>
+inoremap hhhhh <Esc>
+inoremap jjjjj <Esc>
+inoremap kkkkk <Esc>
+inoremap lllll <Esc>
 " }}}
 
 " Mode line {{{
