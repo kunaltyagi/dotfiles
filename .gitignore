@@ -3,7 +3,7 @@ log/*
 .auth
 
 # for vim
-.netrwhist
+vim/.vim/.netrwhist
 
 # ignore installed packages, unless explicitly added
 vim/.vim/bundle/*
