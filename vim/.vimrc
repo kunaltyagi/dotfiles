@@ -7,6 +7,69 @@
 "     use <space> to toggle folds in normal mode
 "     use ; not : for commands
 
+" Vundle {{{
+" Setup {{{
+set nocompatible              " be iMproved, required
+filetype off                  " required
+
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+" alternatively, pass a path where Vundle should install plugins
+"call vundle#begin('~/some/path/here')
+
+" let Vundle manage Vundle, required
+Plugin 'VundleVim/Vundle.vim'
+"}}}
+" Other plugins here: {{{
+
+" Git wrapper
+Plugin 'tpope/vim-fugitive'
+" ag plugin, sudo apt-get install silversearcher-ag
+Plugin 'rking/ag.vim'
+" Fuzzy search
+Plugin 'kien/ctrlp.vim'
+
+"}}}
+" Cleanup {{{
+" All of your Plugins must be added before the following line
+call vundle#end()            " required
+" }}}
+" Help {{{
+" Brief help
+" :PluginList       - lists configured plugins
+" :PluginInstall    - installs plugins; append `!` to update or just :PluginUpdate
+" :PluginSearch foo - searches for foo; append `!` to refresh local cache
+" :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
+"
+" see :h vundle for more details or wiki for FAQ
+" Put your non-Plugin stuff after this line
+" }}}
+" }}}
+
+" Plugin Settings {{{
+" CtrlP {{{
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlP'
+let g:ctrlp_match_window = 'bottom,order:ttb'
+let g:ctrlp_switch_buffer = 0
+let g:ctrlp_working_path_mode = 0
+let g:ctrlp_user_command = 'ag %s -l --nocolor --hidden -g ""'
+let g:ctrlp_working_path_mode = 'ra'
+set wildignore+=*/tmp/*,*.so,*.swp,*.zip     " MacOSX/Linux
+" set wildignore+=*\\tmp\\*,*.swp,*.zip,*.exe  " Windows
+" let g:ctrlp_custom_ignore = '\v[\/]\.(git|hg|svn)$'
+let g:ctrlp_custom_ignore = {
+  \ 'dir':  '\v[\/]\.(git|hg|svn)$',
+  \ 'file': '\v\.(exe|so|dll)$',
+  \ }
+"  \ 'link': 'some_bad_symbolic_links', << unused option
+" }}}
+" Ag {{{
+nnoremap <leader>a :Ag
+" }}}
+" }}}
+
 " Basics {{{
 syntax on
 " }}}
@@ -35,8 +98,10 @@ set modelines=5
 " }}}
 
 " Indent {{{
-filetype indent on
-filetype plugin on
+" indentation plugin
+if has("autocmd")
+    filetype plugin indent on
+endif
 set autoindent
 set smartindent
 " }}}
@@ -182,12 +247,6 @@ map <C-l> <C-w>l
 cnoreabbrev <expr> w!!
                 \((getcmdtype() == ':' && getcmdline() == 'w!!')
                 \?('!sudo tee % >/dev/null'):('w!!'))
-
-" indentation plugin
-if has("autocmd")
-    filetype plugin indent on
-endif
-
 
 " au BufWritePost : immediately update changes after saving.
 au BufLeave ~/.vimrc :source ~/.vimrc
