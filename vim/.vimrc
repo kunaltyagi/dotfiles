@@ -31,6 +31,15 @@ Plugin 'rking/ag.vim'
 Plugin 'kien/ctrlp.vim'
 " Theme manager
 Plugin 'reedes/vim-thematic'
+" Tagbar
+Plugin 'majutsushi/tagbar'
+" Better undo
+Plugin 'sjl/gundo.vim'
+
+" TODO
+" Generate tags (install exuberant-ctags first)
+" Plugin 'xolox/vim-easytags'
+" Plugin 'szw/vim-tags'
 
 "}}}
 " Cleanup {{{
@@ -66,12 +75,19 @@ let g:ctrlp_custom_ignore = {
   \ 'file': '\v\.(exe|so|dll)$',
   \ }
 "  \ 'link': 'some_bad_symbolic_links', << unused option
+nnoremap <C-g> :CtrlPTag<cr>
 " }}}
 " Ag {{{
 nnoremap <leader>a :Ag
 " }}}
+" TagBar {{{
+nnoremap <F8> :TagbarToggle<CR>
+" }}}
 " Thematic {{{
 let g:thematic#theme_name = 'ron'
+" }}}
+" Gundo {{{
+nnoremap <leader>u :GundoToggle<CR>
 " }}}
 " }}}
 
@@ -131,6 +147,7 @@ set nocursorline        " No to Highlight cursor line
 set showcmd             " Show (partial) command in status line.
 set showmatch           " Show matching brackets.
 set hidden              " Hide buffers when they are abandoned
+nnoremap <F7> :tab ball<CR>
 " }}}
 
 " Folding {{{
@@ -151,31 +168,6 @@ set visualbell
 set noerrorbells
 set list
 set listchars=tab:».,trail:.,precedes:<,extends:>,nbsp:.
-" }}}
-
-" Status bar {{{
-set laststatus=2
-set statusline=                                 "clear the status line
-set statusline+=%-3.3n\                         " buffer number
-set statusline+=%#todo#                         "todo color
-set statusline+=%F                              "full filename
-set statusline+=%*                              "normal color
-"set statusline=%t                               "tail of the filename
-set statusline+=[%{strlen(&fenc)?&fenc:'none'}, "file encoding
-set statusline+=%{&ff}]                         "file format
-set statusline+=%#error#                        "error color
-set statusline+=%h                              "help file flag
-set statusline+=%m                              "modified flag
-set statusline+=%r                              "read only flag
-set statusline+=%w                              "preview flag
-set statusline+=%*                              "normal color
-set statusline+=%y                              "filetype
-set statusline+=%=                              "left/right separator
-set statusline+=%{synIDattr(synID(line('.'),col('.'),1),'name')}\  "highlight current word type
-set statusline+=%c,                             "cursor column
-set statusline+=%V                              "virtual cursor column
-set statusline+=%l/%L                           "cursor line/total lines
-set statusline+=\ %P                            "percent through file
 " }}}
 
 " Pathogen {{{
@@ -248,6 +240,19 @@ map <C-k> <C-w>k
 map <C-l> <C-w>l
 " }}}
 
+" Mode line {{{
+" Append modeline after last line in buffer.
+" Use substitute() instead of printf() to handle '%%s' modeline in LaTeX
+" files.
+function! AppendModeline()
+  let l:modeline = printf(" vim: set fdm=syntax ff=%d ts=%d sw=%d %set :",
+        \ &fileformat, &tabstop, &shiftwidth, &expandtab ? '' : 'no')
+  let l:modeline = substitute(&commentstring, "%s", l:modeline, "")
+  call append(line("$"), l:modeline)
+endfunction
+nnoremap <Leader>ml :call AppendModeline()<CR>
+" }}}
+
 " Sudo write function, doesn't work
 cnoreabbrev <expr> w!!
                 \((getcmdtype() == ':' && getcmdline() == 'w!!')
@@ -266,6 +271,32 @@ iabbrev @@ thekunaltyagi@yahoo.com
 autocmd FileType c,cpp,java,php,python autocmd BufWritePre <buffer> :%s/\s\+$//e
 
 " autocmd filetype html,xml set listchars-=tab:>.
+
+" Status bar {{{
+set noruler
+set laststatus=2
+set statusline=                                 "clear the status line
+set statusline+=%-3.3n\                         " buffer number
+set statusline+=%#todo#                         "todo color
+set statusline+=%F                              "full filename
+set statusline+=%*                              "normal color
+"set statusline=%t                               "tail of the filename
+set statusline+=[%{strlen(&fenc)?&fenc:'none'}, "file encoding
+set statusline+=%{&ff}]                         "file format
+set statusline+=%#error#                        "error color
+set statusline+=%h                              "help file flag
+set statusline+=%m                              "modified flag
+set statusline+=%r                              "read only flag
+set statusline+=%w                              "preview flag
+set statusline+=%*                              "normal color
+set statusline+=%y                              "filetype
+set statusline+=%=                              "left/right separator
+set statusline+=%{synIDattr(synID(line('.'),col('.'),1),'name')}\  "highlight current word type
+set statusline+=%c,                             "cursor column
+set statusline+=%V                              "virtual cursor column
+set statusline+=%l/%L                           "cursor line/total lines
+set statusline+=\ %P                            "percent through file
+" }}}
 
 " Mode line {{{
 " add line to tell vim to fold data
