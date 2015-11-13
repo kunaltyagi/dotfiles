@@ -29,6 +29,8 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'rking/ag.vim'
 " Fuzzy search
 Plugin 'kien/ctrlp.vim'
+" Theme manager
+Plugin 'reedes/vim-thematic'
 
 "}}}
 " Cleanup {{{
@@ -67,6 +69,9 @@ let g:ctrlp_custom_ignore = {
 " }}}
 " Ag {{{
 nnoremap <leader>a :Ag
+" }}}
+" Thematic {{{
+let g:thematic#theme_name = 'ron'
 " }}}
 " }}}
 
