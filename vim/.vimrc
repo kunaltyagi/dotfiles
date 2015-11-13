@@ -1,5 +1,12 @@
 " Begin .vimrc
 
+" INFO: Folded sections
+" Use 'za' (without quotes) to unfold/refold
+
+" INFO: If this vimrc is in use,
+"     use <space> to toggle folds in normal mode
+"     use ; not : for commands
+
 " Basics {{{
 syntax on
 " }}}
@@ -106,9 +113,15 @@ set statusline+=\ %P                            "percent through file
 " }}}
 
 " Remapping {{{
-let mapleader=";"
+let mapleader=";"       " set ; key as the mapleader
+" swap ; and : functions <WARN>
 nnoremap ; :
+nnoremap : ;
+
+" Insert TAB by choice
 imap <F4> <C-v><tab>
+
+" Easy exit into normal mode fron insert mode
 inoremap jk <Esc>
 inoremap JK <Esc>
 inoremap HHHHH <Esc>
@@ -140,10 +153,10 @@ nmap Q gqap
 
 " Learning {{{
 " Disable Arrow keys in Cmd mode
-map <up> <nop>
-map <down> <nop>
-map <left> <nop>
-map <right> <nop>
+"map <up> <nop>
+"map <down> <nop>
+"map <left> <nop>
+"map <right> <nop>
 " }}}
 
 " Line shortcuts {{{
@@ -155,6 +168,7 @@ nnoremap k gk
 " nnoremap E $
 " highlight last inserted text
 nnoremap gV `[v`]
+set whichwrap+=<,>,[,]
 " }}}
 
 " Split shortcuts {{{
@@ -164,6 +178,7 @@ map <C-k> <C-w>k
 map <C-l> <C-w>l
 " }}}
 
+" Sudo write function, doesn't work
 cnoreabbrev <expr> w!!
                 \((getcmdtype() == ':' && getcmdline() == 'w!!')
                 \?('!sudo tee % >/dev/null'):('w!!'))

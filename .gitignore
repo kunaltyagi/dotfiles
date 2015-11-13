@@ -1,3 +1,6 @@
 # for gazebo backup
 log/*
 .auth
+
+# for vim
+.netrwhist
