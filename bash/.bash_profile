@@ -5,8 +5,11 @@ source ~/catkin_ws/devel/setup.bash
 #source /usr/share/gazebo/setup.sh
 
 #Gazebo
-export GAZEBO_RESOURCE_PATH=~/catkin_ws/src/robosub/matsya_gazebo/worlds:$GAZEBO_RESOURCE_PATH
-export GAZEBO_MODEL_PATH=~/catkin_ws/src/robosub/matsya_gazebo/models:$GAZEBO_MODEL_PATH
+source /usr/share/gazebo-5.1/setup.sh
+SIM_DIR=`rospack find auv_simulator`
+export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:$SIM_DIR
+export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:$SIM_DIR/visualization/gazebo/models
+export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/catkin_ws/devel/lib
 
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
@@ -36,3 +39,6 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib:/usr/lib:~/local/boost_1_
 
 # Boost custom path
 export PATH=$PATH:~/local/boost_1_46_0/lib
+
+# wrapper.py
+`eval "$(register-python-argcomplete wrapper.py)"`
