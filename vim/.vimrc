@@ -25,17 +25,41 @@ Plugin 'VundleVim/Vundle.vim'
 "}}}
 " Other plugins here: {{{
 
+" Time tracker
+Plugin 'wakatime/vim-wakatime'
 " Git wrapper
 Plugin 'tpope/vim-fugitive'
+" Git gutter
+Plugin 'airblade/vim-gitgutter'
+" Surround
+Plugin 'tpope/vim-surround'
+" Repeat
+Plugin 'tpope/vim-repeat'
+" Better increment/decrement for dates
+Plugin 'tpope/vim-speeddating'
+" Better substitution
+Plugin 'tpope/vim-abolish'
+" Snippet engine
+Plugin 'SirVer/ultisnips'
+" Snippets are separated from the engine
+Plugin 'honza/vim-snippets'
+" Better movements
+Plugin 'tpope/vim-unimpaired'
+" Faster movement in window
+Plugin 'easymotion/vim-easymotion'
+" Better comments, NOT WORKING
+Plugin 'tpope/vim-commentary'
 " ag plugin, sudo apt-get install silversearcher-ag
 Plugin 'rking/ag.vim'
 " Fuzzy search
-Plugin 'kien/ctrlp.vim'
+Plugin 'ctrlpvim/ctrlp.vim'
+" Run time completion
+Plugin 'Valloric/YouCompleteMe'
 " Theme manager
 Plugin 'reedes/vim-thematic'
 " Tagbar
 Plugin 'majutsushi/tagbar'
-" Better undo
+" Better undo, SUCKS
 Plugin 'sjl/gundo.vim'
 " Markdown Syntax
 Plugin 'godlygeek/tabular'
@@ -43,6 +67,8 @@ Plugin 'plasticboy/vim-markdown'
 " Navigation Tree
 Plugin 'scrooloose/nerdtree'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
+" Better Sublime-ish delimiters
+Plugin 'Raimondi/delimitMate'
 
 " TODO
 " Generate tags (install exuberant-ctags first)
@@ -88,6 +114,10 @@ let g:ctrlp_custom_ignore = {
 "  \ 'link': 'some_bad_symbolic_links', << unused option
 nnoremap <C-g> :CtrlPTag<cr>
 " }}}
+" Repeat {{{
+" Insert the following at the end of map function (uncomment it)
+" silent! call repeat#set("\<Plug>MyWonderfulMap", v:count)
+" }}}
 " Ag {{{
 nnoremap <leader>a :Ag
 " }}}
@@ -98,6 +128,7 @@ nnoremap <F8> :TagbarToggle<CR>
 let g:thematic#theme_name = 'ron'
 " }}}
 " Gundo {{{
+" Not working
 nnoremap <leader>u :GundoToggle<CR>
 " }}}
 " Syntastic {{{
@@ -120,8 +151,6 @@ endfunction
 
 call NERDTreeHighlightFile('jade', 'green', 'none', 'green', '#151515')
 call NERDTreeHighlightFile('ini', 'yellow', 'none', 'yellow', '#151515')
-call NERDTreeHighlightFile('md', 'blue', 'none', '#3366FF', '#151515')
-call NERDTreeHighlightFile('yml', 'yellow', 'none', 'yellow', '#151515')
 call NERDTreeHighlightFile('config', 'yellow', 'none', 'yellow', '#151515')
 call NERDTreeHighlightFile('conf', 'yellow', 'none', 'yellow', '#151515')
 call NERDTreeHighlightFile('json', 'yellow', 'none', 'yellow', '#151515')
@@ -285,6 +314,7 @@ function! AppendModeline()
   let l:modeline = substitute(&commentstring, "%s", l:modeline, "")
   call append(line("$"), l:modeline)
 endfunction
+" Not working
 nnoremap <Leader>ml :call AppendModeline()<CR>
 " }}}
 
