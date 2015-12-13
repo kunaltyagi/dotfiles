@@ -41,4 +41,4 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib:/usr/lib:~/local/boost_1_
 export PATH=$PATH:~/local/boost_1_46_0/lib
 
 # wrapper.py
-`eval "$(register-python-argcomplete wrapper.py)"`
+eval "$(register-python-argcomplete wrapper.py)"

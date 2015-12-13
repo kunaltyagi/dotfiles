@@ -56,15 +56,20 @@ git_ps1()
     fi
 }
 
-#PS1 for git
-#export PS1='\u@\h:\w:$(__git_ps1 "[%s]")\$ '
 #a fancier one
-# export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple\]\w\[$Reset$LightGrey\][\d \t]\[$Reset\]\n\[$Reset$LightRed\]\$(__git_ps1 '[%s]') \`${SELECT}\` \[$Reset\]$ "
 # export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]\xE2\x98\xBA '; else echo -e '\[$Red\]\xE2\x98\xB9 ';fi\`\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']')\[$Reset$LightBlue\]\$(hg_ps1) \[$Reset\]$ "
-export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']')\[$Reset$LightBlue\]\$(hg_ps1) \[$Reset\]$ "
+if [ `which git | wc -l` -ne 0 ]; then
+    if [ `which hg | wc -l` -ne 0 ]; then
+        export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']')\[$Reset$LightBlue\]\$(hg_ps1) \[$Reset\]$ "
+    else
+        export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']') \[$Reset\]$ "
+    fi
+else
+    export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w \[$Reset\]$ "
+fi
 # export PS1="\w`hg prompt "[{branch}{status}{update}]" 2>/dev/null` $"
 
-compensate=109
+#compensate=109
 #export PS1=$(printf "%*s\r%s" "$(($(tput cols)+${compensate}))" "Hello" "$PS12")
 
 #PS2 (in long terminal statements, after pressing /)
