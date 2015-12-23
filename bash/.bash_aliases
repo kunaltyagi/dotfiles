@@ -66,6 +66,8 @@ com=("ssh" "-t" "${@:1:$(($#-1))}" "${t%:*}" "cd ${t##*:}; \$SHELL -l")
 # alias to rotate the screen
 alias rotate="xrandr --output eDP1 --rotate $@"  # normal, inverted, right, left
 
+alias rm="rmtrash"
+
 alias tags_generate="ctags-exuberant -R ."
 # alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text & > /dev/null"
 alias error_code="shuf -i 0-99999999 -n 1"

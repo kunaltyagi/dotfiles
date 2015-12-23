@@ -123,7 +123,8 @@ let g:ycm_complete_in_comments = 1
 let g:ycm_collect_identifiers_from_comments_and_strings = 1
 let g:ycm_collect_identifiers_from_tags_files = 1
 let g:ycm_seed_identifiers_with_syntax = 1
-let g:ycm_key_list_select_completion = ['<Enter>', '<Down>']
+" [<Tab>, '<Down>, '<Enter>]
+let g:ycm_key_list_select_completion = ['<Down>']
 " }}}
 " Ag {{{
 nnoremap <leader>a :Ag
@@ -325,13 +326,33 @@ endfunction
 nnoremap <Leader>ml :call AppendModeline()<CR>
 " }}}
 
+" dictionary on
+set dictionary+=/use/share/dict/words
+set dictionary+=~/.vim/words/common.txt
+" spell check on (gives immense pain when works)
+" set spell
+" dictionary completion on (not working)
+set complete+=k
+" tag file completion on (not working)
+set complete+=t
+" find words for blah.tex in ~/.vim/words/tex.txt, etc.
+au FileType * execute 'setlocal dict+=~/.vim/words/' .&filetype.'.txt'
+" autocomplete syntax
+set omnifunc=syntaxcomplete#Complete
+" if has("autocmd") && exists("+omnifunc")
+"     autocmd FileType *
+"         \ if &omnifunc == "" |
+"         \ setlocal omnifunc=syntaxcomplete#Complete |
+"         \ endif
+" endif
+
 " Sudo write function, doesn't work
 cnoreabbrev <expr> w!!
                 \((getcmdtype() == ':' && getcmdline() == 'w!!')
                 \?('!sudo tee % >/dev/null'):('w!!'))
 
-" au BufWritePost : immediately update changes after saving.
-au BufLeave ~/.vimrc :source ~/.vimrc
+au BufWritePost : immediately update changes after saving.
+" au BufLeave ~/.vimrc :source ~/.vimrc
 
 " Signature {{{
 iabbrev ssig -- <cr>Kunal Tyagi<cr>tyagi.kunal@live.com
@@ -377,8 +398,8 @@ set statusline+=\ %P                            "percent through file
 
 " Remapping {{{
 " swap ; and : functions <WARN>
-nnoremap ; :
-nnoremap : ;
+"nnoremap ; :
+"nnoremap : ;
 
 " Insert TAB by choice
 imap <F4> <C-v><tab>
@@ -401,3 +422,4 @@ inoremap lllll <Esc>
 " vim:foldmethod=marker:foldlevel=0
 " }}}
 " End .vimrc
+" fcbb368b7eef49069c1073e8c392faf12da0c458
