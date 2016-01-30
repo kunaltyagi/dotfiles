@@ -346,6 +346,10 @@ set omnifunc=syntaxcomplete#Complete
 "         \ endif
 " endif
 
+" personal tag file
+set tag+=~/catkin_ws/src/robosub/tags
+set tag+=~/catkin_ws/src/octomap/octomap/tags
+
 " Sudo write function, doesn't work
 cnoreabbrev <expr> w!!
                 \((getcmdtype() == ':' && getcmdline() == 'w!!')
@@ -398,8 +402,8 @@ set statusline+=\ %P                            "percent through file
 
 " Remapping {{{
 " swap ; and : functions <WARN>
-"nnoremap ; :
-"nnoremap : ;
+nnoremap ; :
+nnoremap : ;
 
 " Insert TAB by choice
 imap <F4> <C-v><tab>

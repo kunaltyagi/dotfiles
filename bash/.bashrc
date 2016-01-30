@@ -147,3 +147,6 @@ ulimit  -c  unlimited
 # export ROS_MASTER_URI=http://192.168.3.4:11311/
 # export ROS_HOSTNAME=192.168.3.5
 # export ROS_IP=192.168.3.5
+
+# for remoing tmp setup files
+\rm /tmp/setup.sh.*
