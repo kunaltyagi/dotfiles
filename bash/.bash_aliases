@@ -5,9 +5,10 @@ catkin_make_new()
     x=$PWD;
     roscd;
     cd ..;
-    catkin_make "$@" 2> $x'/error_log.txt';
+    filename='/home/'$(whoami)'/local/error_log.txt';
+    catkin_make "$@" 2> $filename;
     cd $x;
-    if [ `wc -l error_log.txt | awk '{ print $1 }'` -ne 0 ]; then less error_log.txt; else rm error_log.txt; fi;
+    if [ `wc -l $filename | awk '{ print $1 }'` -ne 0 ]; then less $filename; else \rm $filename; fi;
 }
 cdl()
 {
