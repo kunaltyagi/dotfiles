@@ -15,6 +15,7 @@ fi
 declare -a bash_files=("rc" "_profile" "_prompt" "_aliases")
 declare -a vim_files=("" "rc")
 declare -a hg_files=("rc")
+declare -a git_files=("config" "ignore")
 
 for file in "${bash_files[@]}"
 do
@@ -29,5 +30,10 @@ done
 for file in "${hg_files[@]}"
 do
     mv $HOME/.hg$file $HOME/oldConfig/
-    ln -s $workDir/mercurial/.hg$file $HOME/.hg$file
+    ln -s $workDir/hg/.hg$file $HOME/.hg$file
+done
+for file in "${git_files[@]}"
+do
+    mv $HOME/.git$file $HOME/oldConfig/
+    ln -s $workDir/git/.git$file $HOME/.git$file
 done
