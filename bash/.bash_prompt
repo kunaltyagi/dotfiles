@@ -65,7 +65,7 @@ if [ `which git | wc -l` -ne 0 ]; then
         export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']') \[$Reset\]$ "
     fi
 else
-    export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w \[$Reset\]$ "
+    export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset\] $ "
 fi
 # export PS1="\w`hg prompt "[{branch}{status}{update}]" 2>/dev/null` $"
 

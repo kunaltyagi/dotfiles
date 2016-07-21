@@ -67,9 +67,14 @@ com=("ssh" "-t" "${@:1:$(($#-1))}" "${t%:*}" "cd ${t##*:}; \$SHELL -l")
 # alias to rotate the screen
 alias rotate="xrandr --output eDP1 --rotate $@"  # normal, inverted, right, left
 
-alias rm="rmtrash"
+# alias rm="rmtrash"
+# alias rm="rm -i"
+# alias mv="mv -i"
+# alias cp="cp -i"
 
+alias ]='xdg-open $@'
 alias tags_generate="ctags-exuberant -R ."
+alias internet='python2 ~/workspace/dotfiles/python/iitblogin.py'
 # alias sublime_text="~/programs/Sublime\ Text\ 2/sublime_text & > /dev/null"
 alias error_code="shuf -i 0-99999999 -n 1"
 alias arduino="~/programs/arduino-0023/arduino"
@@ -78,8 +83,8 @@ alias resource="source ~/.bashrc"
 alias cm="catkin_make_new"
 alias screensaver='gconftool-2 --type bool --set /apps/gnome-screensaver/idle_activation_enabled "false"'
 alias fortunecow='fortune|cowsay'
-alias windows='sudo mount -t ntfs-3g -o ro /dev/sda5/ /media/kunaltyagi/OS_sudo/'
-alias win_share='sudo mount -t ntfs-3g -o ro /dev/sda6/ /media/kunaltyagi/Share_sudo/'
+alias windows='sudo mount -t ntfs-3g -o ro /dev/sda5/ /media/kunal/OS_sudo/'
+alias win_share='sudo mount -t ntfs-3g -o ro /dev/sda7/ /media/kunal/Share_sudo/'
 alias bcd='cd ~/.bin/.bin'
 alias matsya="terminator -l ros -p sun"
 alias ros="terminator -l ros"
@@ -90,7 +95,7 @@ alias check_temp="sudo sensors ; sudo hddtemp /dev/sda"
 alias kz="kill %%"
 alias random_alpha="apg"
 alias shortcut="sudo ln -s $@"
-alias matlab="/usr/local/MATLAB/R2013a/bin/matlab"
+#alias matlab="/usr/local/MATLAB/R2013a/bin/matlab"
 alias temperature="sensors|tail -n +3|head -n 1|awk '{print $4}'|grep -o -E [0-9]+\.[0-9]+|head -n 1"
 alias study="study_mode"
 alias delete="trash-rm"

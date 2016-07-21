@@ -54,7 +54,7 @@ Plugin 'rking/ag.vim'
 " Fuzzy search
 Plugin 'ctrlpvim/ctrlp.vim'
 " Run time completion
-Plugin 'Valloric/YouCompleteMe'
+"Plugin 'Valloric/YouCompleteMe'
 " Theme manager
 Plugin 'reedes/vim-thematic'
 " Tagbar
@@ -426,4 +426,7 @@ inoremap lllll <Esc>
 " vim:foldmethod=marker:foldlevel=0
 " }}}
 " End .vimrc
-" fcbb368b7eef49069c1073e8c392faf12da0c458
+" fd0868c1d6ce6bf015c0
+" 90b78698ebe6f6f8c4ac
+" KTRRA-CV3WN-RL3DU-4PGD6-83SR2
+" sutekgfytsbkcepr
