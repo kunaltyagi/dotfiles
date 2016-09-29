@@ -466,12 +466,6 @@ inoremap kkkkk <Esc>
 inoremap lllll <Esc>
 " }}}
 
-" fd0868c1d6ce6bf015c0
-" 90b78698ebe6f6f8c4ac
-" KTRRA-CV3WN-RL3DU-4PGD6-83SR2
-" sutekgfytsbkcepr
-" a0cbc c1f11 ab94c c4642 (1/1)
-" 94bb3 289be 97908 307ec (0/1)
 " Mode line {{{
 " add line to tell vim to fold data
 " vim:foldmethod=marker:foldlevel=0
