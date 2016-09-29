@@ -414,37 +414,6 @@ autocmd FileType c,cpp,java,php,python autocmd BufWritePre <buffer> :%s/\s\+$//e
 
 " autocmd filetype html,xml set listchars-=tab:>.
 
-" Status bar {{{
-" set noruler
-" set laststatus=2
-" set statusline=                                 "clear the status line
-" set statusline+=%-3.3n\                         " buffer number
-" set statusline+=%#todo#                         "todo color
-" set statusline+=%F                              "full filename
-" set statusline+=%*                              "normal color
-"set statusline=%t                               "tail of the filename
-" set statusline+=[%{strlen(&fenc)?&fenc:'none'}, "file encoding
-" set statusline+=%{&ff}]                         "file format
-" set statusline+=%#error#                        "error color
-" set statusline+=%h                              "help file flag
-" set statusline+=%m                              "modified flag
-" set statusline+=%r                              "read only flag
-" set statusline+=%w                              "preview flag
-" set statusline+=%*                              "normal color
-" set statusline+=%y                              "filetype
-" Syntastic {{{
-"set statusline+=%#warningmsg#
-"set statusline+=%{SyntasticStatuslineFlag()}
-"set statusline+=%*
-" }}}
-" set statusline+=%=                              "left/right separator
-" set statusline+=%{synIDattr(synID(line('.'),col('.'),1),'name')}\  "highlight current word type
-" set statusline+=%c,                             "cursor column
-" set statusline+=%V                              "virtual cursor column
-" set statusline+=%l/%L                           "cursor line/total lines
-" set statusline+=\ %P                            "percent through file
-" }}}
-
 " Remapping {{{
 " swap ; and : functions <WARN>
 nnoremap ; :
