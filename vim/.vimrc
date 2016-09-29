@@ -425,6 +425,8 @@ imap <F4> <C-v><tab>
 " Easy exit into normal mode fron insert mode
 inoremap jk <Esc>
 inoremap JK <Esc>
+inoremap kj <Esc>
+inoremap KJ <Esc>
 inoremap HHHHH <Esc>
 inoremap JJJJJ <Esc>
 inoremap KKKKK <Esc>
