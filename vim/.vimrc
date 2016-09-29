@@ -305,10 +305,6 @@ set list
 set listchars=tab:».,trail:.,precedes:<,extends:>,nbsp:.
 " }}}
 
-" Pathogen {{{
-"execute pathogen#infect()
-" }}}
-
 " Ctrl+V {{{
 " Use F3 to toggle the use of verbatim pasting mode
 set pastetoggle=<F3>
