@@ -27,48 +27,57 @@ Plugin 'VundleVim/Vundle.vim'
 
 " Time tracker
 Plugin 'wakatime/vim-wakatime'
-" Git wrapper
-Plugin 'tpope/vim-fugitive'
 " Git gutter
 Plugin 'airblade/vim-gitgutter'
-" Surround
+" Git wrapper
+Plugin 'tpope/vim-fugitive'
+" Modify surrounding brackets, quotes, tags
 Plugin 'tpope/vim-surround'
-" Repeat
+" Repeat groups of commands, not a single command
 Plugin 'tpope/vim-repeat'
 " Better increment/decrement for dates
 Plugin 'tpope/vim-speeddating'
-" Better substitution
+" Better substitution using %S instead of %s
 Plugin 'tpope/vim-abolish'
+" Better movements, like [b for bprevious
+Plugin 'tpope/vim-unimpaired'
+" Better comments
+Plugin 'tpope/vim-commentary'
 " Snippet engine
 Plugin 'SirVer/ultisnips'
 " Snippets are separated from the engine
 Plugin 'honza/vim-snippets'
-" Better movements
-Plugin 'tpope/vim-unimpaired'
 " Faster movement in window
-Plugin 'easymotion/vim-easymotion'
-" Better comments, NOT WORKING
-Plugin 'tpope/vim-commentary'
-" ag plugin, sudo apt-get install silversearcher-ag
-Plugin 'rking/ag.vim'
+" Plugin 'easymotion/vim-easymotion'
+" ag plugin, sudo apt install ack-grep
+Plugin 'mileszs/ack.vim'
 " Fuzzy search
 Plugin 'ctrlpvim/ctrlp.vim'
 " Run time completion
-"Plugin 'Valloric/YouCompleteMe'
+Plugin 'Valloric/YouCompleteMe'
+" Generate file required for YCM
+Plugin 'rdnetto/YCM-Generator'
 " Theme manager
 Plugin 'reedes/vim-thematic'
 " Tagbar
 Plugin 'majutsushi/tagbar'
-" Better undo, SUCKS
-Plugin 'sjl/gundo.vim'
 " Markdown Syntax
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
 " Navigation Tree
 Plugin 'scrooloose/nerdtree'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
-" Better Sublime-ish delimiters
+" Better Sublime-ish delimiters, ie the end braces open appear automatically
 Plugin 'Raimondi/delimitMate'
+" Powerline
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
+" Python auto-complete
+Plugin 'davidhalter/jedi-vim'
+" PyVirtual env
+Plugin 'jmcantrell/vim-virtualenv'
+" csv
+Plugin 'chrisbra/csv.vim'
 
 " TODO
 " Generate tags (install exuberant-ctags first)
@@ -95,13 +104,18 @@ call vundle#end()            " required
 " }}}
 
 " Plugin Settings {{{
+" vim-gitgutter {{{
+highlight link GitGutterAdd DiffAdd
+highlight link GitGutterChange DiffChange
+highlight link GitGutterDelete DiffDelete
+" }}}
 " CtrlP {{{
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
 let g:ctrlp_match_window = 'bottom,order:ttb'
 let g:ctrlp_switch_buffer = 0
 let g:ctrlp_working_path_mode = 0
-let g:ctrlp_user_command = 'ag %s -l --nocolor --hidden -g ""'
+let g:ctrlp_user_command = 'ack %s -l --nocolor -g ""'
 let g:ctrlp_working_path_mode = 'ra'
 
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip     " MacOSX/Linux
@@ -118,16 +132,27 @@ nnoremap <C-g> :CtrlPTag<cr>
 " Insert the following at the end of map function (uncomment it)
 " silent! call repeat#set("\<Plug>MyWonderfulMap", v:count)
 " }}}
+" Ultisnips {{{
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+" }}}
 " YouCompleteMe {{{
+let g:ycm_min_num_of_chars_for_completion = 1
 let g:ycm_complete_in_comments = 1
 let g:ycm_collect_identifiers_from_comments_and_strings = 1
 let g:ycm_collect_identifiers_from_tags_files = 1
 let g:ycm_seed_identifiers_with_syntax = 1
-" [<Tab>, '<Down>, '<Enter>]
+let g:ycm_add_preview_to_completeopt = 1
+let g:ycm_autoclose_preview_window_after_completion = 1
 let g:ycm_key_list_select_completion = ['<Down>']
+" [<Tab>, '<Down>, '<Enter>]
+let g:ycm_extra_conf_globlist = ['~/Documents/graphics/*', '~/ros_ws/src/*', '~/catkin_ws/src/*','!~/*']
+
+nnoremap <leader>ycm :YcmGenerateConfig<CR>
 " }}}
-" Ag {{{
-nnoremap <leader>a :Ag
+" Ack {{{
+nnoremap <leader>a :Ack
 " }}}
 " TagBar {{{
 nnoremap <F8> :TagbarToggle<CR>
@@ -135,9 +160,9 @@ nnoremap <F8> :TagbarToggle<CR>
 " Thematic {{{
 let g:thematic#theme_name = 'ron'
 " }}}
-" Gundo {{{
-" Not working
-nnoremap <leader>u :GundoToggle<CR>
+" Tabular {{{ [[rlc][padding]]* for right, left or center align
+nmap <Leader>a= :Tabularize /=<CR>
+vmap <Leader>a= :Tabularize /=<CR>
 " }}}
 " Syntastic {{{
 let g:syntastic_always_populate_loc_list = 1
@@ -182,6 +207,22 @@ let g:NERDTreeIndicatorMapCustom = {
     \ }
 
 nnoremap <leader>nav :NERDTreeToggle<CR>
+" Open NERDTree if only `$ vim` is used
+autocmd StdinReadPre * let s:std_in=1
+autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
+" Put cursor in the other window
+autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | wincmd p | endif
+" use ;qa to exit
+" }}}
+" Airline {{{
+let g:airline_theme='bubblegum'
+let g:airline#extensions#tabline#enabled = 1 " Enable the list of buffers
+let g:airline#extensions#tabline#fnamemod = ':t' " Show just the filename
+" Enable status
+set noruler
+set laststatus=2
+" Enable colors
+set t_Co=256
 " }}}
 " }}}
 
@@ -326,8 +367,8 @@ endfunction
 nnoremap <Leader>ml :call AppendModeline()<CR>
 " }}}
 
-" dictionary on
-set dictionary+=/use/share/dict/words
+" Dictionary {{{
+set dictionary+=/usr/share/dict/words
 set dictionary+=~/.vim/words/common.txt
 " spell check on (gives immense pain when works)
 " set spell
@@ -347,16 +388,20 @@ set omnifunc=syntaxcomplete#Complete
 " endif
 
 " personal tag file
-set tag+=~/catkin_ws/src/robosub/tags
-set tag+=~/catkin_ws/src/octomap/octomap/tags
+set tag+=~/ros_ws/src/robosub/tags
+set tag+=~/ros_ws/src/octomap/octomap/tags
+" }}}
+
+" Custom Syntax {{{
+" }}}
 
 " Sudo write function, doesn't work
 cnoreabbrev <expr> w!!
                 \((getcmdtype() == ':' && getcmdline() == 'w!!')
                 \?('!sudo tee % >/dev/null'):('w!!'))
 
-au BufWritePost : immediately update changes after saving.
-" au BufLeave ~/.vimrc :source ~/.vimrc
+" au BufWritePost : immediately update changes after saving.
+au BufLeave ~/.vimrc :source ~/.vimrc | :AirlineRefresh
 
 " Signature {{{
 iabbrev ssig -- <cr>Kunal Tyagi<cr>tyagi.kunal@live.com
@@ -370,34 +415,34 @@ autocmd FileType c,cpp,java,php,python autocmd BufWritePre <buffer> :%s/\s\+$//e
 " autocmd filetype html,xml set listchars-=tab:>.
 
 " Status bar {{{
-set noruler
-set laststatus=2
-set statusline=                                 "clear the status line
-set statusline+=%-3.3n\                         " buffer number
-set statusline+=%#todo#                         "todo color
-set statusline+=%F                              "full filename
-set statusline+=%*                              "normal color
+" set noruler
+" set laststatus=2
+" set statusline=                                 "clear the status line
+" set statusline+=%-3.3n\                         " buffer number
+" set statusline+=%#todo#                         "todo color
+" set statusline+=%F                              "full filename
+" set statusline+=%*                              "normal color
 "set statusline=%t                               "tail of the filename
-set statusline+=[%{strlen(&fenc)?&fenc:'none'}, "file encoding
-set statusline+=%{&ff}]                         "file format
-set statusline+=%#error#                        "error color
-set statusline+=%h                              "help file flag
-set statusline+=%m                              "modified flag
-set statusline+=%r                              "read only flag
-set statusline+=%w                              "preview flag
-set statusline+=%*                              "normal color
-set statusline+=%y                              "filetype
+" set statusline+=[%{strlen(&fenc)?&fenc:'none'}, "file encoding
+" set statusline+=%{&ff}]                         "file format
+" set statusline+=%#error#                        "error color
+" set statusline+=%h                              "help file flag
+" set statusline+=%m                              "modified flag
+" set statusline+=%r                              "read only flag
+" set statusline+=%w                              "preview flag
+" set statusline+=%*                              "normal color
+" set statusline+=%y                              "filetype
 " Syntastic {{{
 "set statusline+=%#warningmsg#
 "set statusline+=%{SyntasticStatuslineFlag()}
 "set statusline+=%*
 " }}}
-set statusline+=%=                              "left/right separator
-set statusline+=%{synIDattr(synID(line('.'),col('.'),1),'name')}\  "highlight current word type
-set statusline+=%c,                             "cursor column
-set statusline+=%V                              "virtual cursor column
-set statusline+=%l/%L                           "cursor line/total lines
-set statusline+=\ %P                            "percent through file
+" set statusline+=%=                              "left/right separator
+" set statusline+=%{synIDattr(synID(line('.'),col('.'),1),'name')}\  "highlight current word type
+" set statusline+=%c,                             "cursor column
+" set statusline+=%V                              "virtual cursor column
+" set statusline+=%l/%L                           "cursor line/total lines
+" set statusline+=\ %P                            "percent through file
 " }}}
 
 " Remapping {{{
@@ -421,14 +466,14 @@ inoremap kkkkk <Esc>
 inoremap lllll <Esc>
 " }}}
 
-" Mode line {{{
-" add line to tell vim to fold data
-" vim:foldmethod=marker:foldlevel=0
-" }}}
-" End .vimrc
 " fd0868c1d6ce6bf015c0
 " 90b78698ebe6f6f8c4ac
 " KTRRA-CV3WN-RL3DU-4PGD6-83SR2
 " sutekgfytsbkcepr
 " a0cbc c1f11 ab94c c4642 (1/1)
 " 94bb3 289be 97908 307ec (0/1)
+" Mode line {{{
+" add line to tell vim to fold data
+" vim:foldmethod=marker:foldlevel=0
+" }}}
+" End .vimrc

@@ -35,6 +35,13 @@ if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
     debian_chroot=$(cat /etc/debian_chroot)
 fi
 
+# enable colors in XTerm
+if [ -e /usr/share/terminfo/x/xterm-256color ]; then
+        export TERM='xterm-256color'
+else
+        export TERM='xterm-color'
+fi
+
 # set a fancy prompt (non-color, unless we know we "want" color)
 case "$TERM" in
     xterm-color) color_prompt=yes;;
@@ -128,7 +135,6 @@ if [ -f ~/.bash_prompt ]; then
 else
     export PS1='\u@\h:\W$(__git_ps1 " (%s)")\$ '
 fi
-#export PS1='\[$(tput setaf 3)\]\u\[$(tput setaf 2)\] @ \[$(tput setaf 4)\]\h: \[$(tput sgr0)$(tput setaf 5)$(tput rev)\]\w\[$(tput sgr0)$(tput bold)$(tput setaf 1)\] $(__git_ps1 "[%s]")\[$(tput sgr0)$(tput setaf 7)\]\n[\d \t] \`if [ \$? = 0 ]; then echo \[$(tput setaf 2)\]':)'; else echo \[$(tput setaf 1)\]':('; fi\` \[$(tput sgr0)\]$ '
 
 #put all the exports in the bash profile
 

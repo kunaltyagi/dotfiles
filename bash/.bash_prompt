@@ -40,6 +40,8 @@ else
     export PS1="\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple$Reverse\]\w\ \[$Reset\]$ "
 fi
 
+# export PS1='\u@\h:\W\$ '
+
 hg_ps1()
 {
     hg prompt "{<{branch}{ - {bookmark}}>}{status}" 2> /dev/null
@@ -60,14 +62,13 @@ git_ps1()
 # export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]\xE2\x98\xBA '; else echo -e '\[$Red\]\xE2\x98\xB9 ';fi\`\[$Reset$Brown\]\u\[$Reset$Green\]@\[$Reset$Blue\]\h:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']')\[$Reset$LightBlue\]\$(hg_ps1) \[$Reset\]$ "
 if [ `which git | wc -l` -ne 0 ]; then
     if [ `which hg | wc -l` -ne 0 ]; then
-        export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']')\[$Reset$LightBlue\]\$(hg_ps1) \[$Reset\]$ "
+        export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]\t '; else echo -e '\[$Red\]\t ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']')\[$Reset$LightBlue\]\$(hg_ps1) \[$Reset\]\!\n$ "
     else
-        export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']') \[$Reset\]$ "
+        export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset$LightRed\]\$(__git_ps1 '[%s')\$(git_ps1)\$(__git_ps1 ']') \[$Reset\]\!$ "
     fi
 else
-    export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset\] $ "
+    export PS1="\[$Reset\]\`if [ \$? = 0 ]; then echo -e '\[$Green\]:) '; else echo -e '\[$Red\]:( ';fi\`\[$Reset$Brown\]\u\[$Reset$Blue\]:\[$Reset$Purple$Reverse\]\w\[$Reset\] \!$ "
 fi
-# export PS1="\w`hg prompt "[{branch}{status}{update}]" 2>/dev/null` $"
 
 #compensate=109
 #export PS1=$(printf "%*s\r%s" "$(($(tput cols)+${compensate}))" "Hello" "$PS12")

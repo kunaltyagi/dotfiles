@@ -16,6 +16,11 @@ cdl()
     clear;
     l;
 }
+function cd()
+{
+    builtin cd $@
+    PATH=${PATH%:*}:$PWD
+}
 notify_new()
 {
 #    $@ && notify-send -i face-smile "Done. And a success" || notify-send -i face-embarrassed "Oops. Was it supposed to happen??";
@@ -110,8 +115,9 @@ alias notify="notify_new"
 alias antlr4='java -jar /usr/local/lib/antlr-4.2-complete.jar'
 alias grun='java org.antlr.v4.runtime.misc.TestRig'
 alias gre='grep -nHT --color $@'
-alias py='python'   # python 2.7.3 as of now
-alias py3='python3.4'   # infinite temporary alias
+alias py='python'
+alias py2='python2'
+alias py3='python3'
 alias ipy='ipython notebook --pylab=inline'
 alias iso_mount='sudo mount -t iso9660 -o ro $@ /media/iso'
 alias pathogen_install="mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim"

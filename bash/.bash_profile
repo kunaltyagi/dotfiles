@@ -2,9 +2,12 @@
 export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 #ROS parameters
+source ~/ros_ws/devel/setup.bash
+
 #export ROS_HOSTNAME=localhost
 #export ROS_MASTER_URI=http://localhost:11311
-source ~/catkin_ws/devel/setup.bash
+# for indigo
+# source ~/catkin_ws/devel/setup.bash
 #source /usr/share/gazebo/setup.sh
 #export AUV_IPADDRESS=127.0.0.1
 #export SBC_IPADDRESS=127.0.0.1
