@@ -62,8 +62,7 @@ Plugin 'reedes/vim-thematic'
 " Tagbar
 Plugin 'majutsushi/tagbar'
 " Markdown Syntax
-Plugin 'godlygeek/tabular'
-Plugin 'plasticboy/vim-markdown'
+Plugin 'gabrielelana/vim-markdown'
 " Navigation Tree
 Plugin 'scrooloose/nerdtree'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
@@ -78,6 +77,10 @@ Plugin 'davidhalter/jedi-vim'
 Plugin 'jmcantrell/vim-virtualenv'
 " csv
 Plugin 'chrisbra/csv.vim'
+" Python
+" Plugin 'klen/python-mode' till i switch off its no wrap
+
+" gundo, easy motion
 
 " TODO
 " Generate tags (install exuberant-ctags first)
@@ -172,8 +175,8 @@ let g:syntastic_check_on_wq = 0
 let g:syntastic_quiet_messages = { "type": "syntax" } " For catkin_ws, it fucks up the warnings
 " }}}
 " Markdown {{{
-let g:vim_markdown_math=1
-let g:vim_markdown_frontmatter=1
+" let g:vim_markdown_math=1
+" let g:vim_markdown_frontmatter=1
 " }}}
 " NERDTree {{{
 " NERDTress File highlighting
@@ -208,11 +211,14 @@ let g:NERDTreeIndicatorMapCustom = {
 
 nnoremap <leader>nav :NERDTreeToggle<CR>
 " Open NERDTree if only `$ vim` is used
-autocmd StdinReadPre * let s:std_in=1
-autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
-" Put cursor in the other window
-autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | wincmd p | endif
-" use ;qa to exit
+augroup vimrcNerdTree
+    autocmd!
+    autocmd StdinReadPre * let s:std_in=1
+    autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
+    " Put cursor in the other window
+    autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | wincmd p | endif
+    " use ;qa to exit
+augroup End
 " }}}
 " Airline {{{
 let g:airline_theme='bubblegum'
@@ -223,6 +229,10 @@ set noruler
 set laststatus=2
 " Enable colors
 set t_Co=256
+" }}}
+" Pymode{{{
+let g:pymode_breakpoint_bind = '<leader>pb'
+let g:pymode_options_max_line_length = 120
 " }}}
 " }}}
 
@@ -255,11 +265,10 @@ set modelines=5
 
 " Indent {{{
 " indentation plugin
+set autoindent
 if has("autocmd")
     filetype plugin indent on
 endif
-set autoindent
-set smartindent
 " }}}
 
 " Search {{{
@@ -389,6 +398,19 @@ set tag+=~/ros_ws/src/octomap/octomap/tags
 " }}}
 
 " Custom Syntax {{{
+augroup vimrcSyntax
+    autocmd!
+    " HTML {{{
+    autocmd FileType html,xml setlocal shiftwidth=2 tabstop=2
+    " }}}
+    " CMake {{{
+    autocmd BufRead,BufNewFile CMake*.txt set filetype=cmake
+    " }}}
+    " Remove trailing white spaces in files {{{
+    autocmd FileType c,cpp,java,php,python,cml,html,css,vim
+        \ autocmd BufWritePre <buffer> :%s/\s\+$//e
+    " }}}
+augroup End
 " }}}
 
 " Sudo write function, doesn't work
@@ -399,16 +421,16 @@ cnoreabbrev <expr> w!!
 " au BufWritePost : immediately update changes after saving.
 au BufLeave ~/.vimrc :source ~/.vimrc | :AirlineRefresh
 
+" Testing and Debugging {{{
+let g:ycm_server_keep_logfiles = 1
+let g:ycm_server_log_level = 'debug'
+" }}}
+
 " Signature {{{
 iabbrev ssig -- <cr>Kunal Tyagi<cr>tyagi.kunal@live.com
 iabbrev ssign Kunal Tyagi "tyagi.kunal@live.com"
 iabbrev @@ thekunaltyagi@yahoo.com
 " }}}
-
-" Remove trailing white spaces in files
-autocmd FileType c,cpp,java,php,python autocmd BufWritePre <buffer> :%s/\s\+$//e
-
-" autocmd filetype html,xml set listchars-=tab:>.
 
 " Remapping {{{
 " swap ; and : functions <WARN>

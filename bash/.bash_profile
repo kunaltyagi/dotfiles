@@ -1,6 +1,9 @@
 # GCC color
 export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
+# wakatime
+source ~/workspace/bash-wakatime/bash-wakatime.sh
+
 #ROS parameters
 source ~/ros_ws/devel/setup.bash
 
@@ -15,10 +18,13 @@ source ~/ros_ws/devel/setup.bash
 
 #Gazebo
 source /usr/share/gazebo/setup.sh
-#SIM_DIR=`rospack find auv_simulator`
-#export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:$SIM_DIR
-#export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:$SIM_DIR/visualization/gazebo/models
-#export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/catkin_ws/devel/lib
+
+# for ddp
+DDP_DIR=~/ros_ws/src/ddp/map_arena/visualization
+GZ_HOME=~/.gazebo
+export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}${GZ_HOME}:$DDP_DIR/models
+export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}${GZ_HOME}:$(roscd;pwd)/lib
+export GAZEBO_RESOURCE_PATH=${GAZEBO_RESOURCE_PATH}${GZ_HOME}:$DDP_DIR/models
 
 ### Added by the Heroku Toolbelt
 #export PATH="/usr/local/heroku/bin:$PATH"

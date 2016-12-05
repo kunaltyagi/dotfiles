@@ -121,7 +121,7 @@ alias py3='python3'
 alias ipy='ipython notebook --pylab=inline'
 alias iso_mount='sudo mount -t iso9660 -o ro $@ /media/iso'
 alias pathogen_install="mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim"
-alias copy='xclip -selection c'
+alias copy='xclip -selection clipboard'
 alias clint='python /home/kunaltyagi/catkin_ws/src/robosub/auv_utils/src/lint/cpp/cpplint.py $@'
 alias filesize="stat -f '%z bytes'"
 alias fuck='sudo $(history -p \!\!)' #F this S***, am going sudo
