@@ -79,6 +79,8 @@ Plugin 'jmcantrell/vim-virtualenv'
 Plugin 'chrisbra/csv.vim'
 " Python
 " Plugin 'klen/python-mode' till i switch off its no wrap
+" Color coding
+" Plugin 'jeaye/color_coded'
 
 " gundo, easy motion
 
