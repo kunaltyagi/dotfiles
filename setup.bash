@@ -37,3 +37,19 @@ do
     mv $HOME/.git$file $HOME/oldConfig/
     ln -s $workDir/git/.git$file $HOME/.git$file
 done
+
+# install system requirements
+sudo apt install python-yaml
+python yaml_installer.py init.yaml
+
+# TODO: make this an array
+# install py2
+. ~/py2/bin/activate
+pip install yaml
+python yaml_installer.py py2.yaml
+
+# install py3
+. ~/py3/bin/activate
+pip install yaml
+python yaml_installer.py py3.yaml
+deactivate

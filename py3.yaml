@@ -1,0 +1,6 @@
+# Standard yaml file
+- pip3:
+    - install:
+        - numpy
+        - scipy
+        - jupyter

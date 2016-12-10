@@ -4,6 +4,10 @@ export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quo
 # wakatime
 source ~/workspace/bash-wakatime/bash-wakatime.sh
 
+# Local Python env
+source ~/py2/bin/activate
+#source ~/py3/bin/activate
+
 #ROS parameters
 source ~/ros_ws/devel/setup.bash
 
