@@ -20,6 +20,8 @@
         - update
         - install:
             - ros-kinetic-desktop-full
+            - libfftw3-3
+            - libfftw3-dev
         - remove:
             - ros-kinetic-gazebo*
             - gazebo*
