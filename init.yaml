@@ -15,6 +15,7 @@
         - g++-5
         - linuxdcpp
         - tree
+        - zeal
         - libgl1-mesa-dev-lts-wily
         - shutter
         - htop

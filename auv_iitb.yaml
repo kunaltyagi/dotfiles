@@ -1,0 +1,32 @@
+- sudo:
+    - apt:
+        - install:
+            - libserial-dev
+            - avr-libc
+            - avrdude
+            - gcc-avr
+            - coriander
+            - cutecom
+            - cloc
+            - openssh-server
+            - python-dev
+    - sh -c:
+        - 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+        - 'echo "deb http://packages.osrfoundation.org/gazebo/ubuntu-stable `lsb_release -cs` main" > /etc/apt/sources.list.d/gazebo-stable.list'
+- wget http://packages.osrfoundation.org/gazebo.key -O - | sudo apt-key add -
+- sudo:
+    - apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
+    - apt:
+        - update
+        - install:
+            - ros-kinetic-desktop-full
+        - remove:
+            - ros-kinetic-gazebo*
+            - gazebo*
+        - install:
+            - gazebo7
+            - libgazebo7-dev
+            - ros-kinetic-gazebo-*
+    - rosdep init
+- rosdep update
+- sudo apt install python-rosinstall
