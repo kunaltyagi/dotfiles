@@ -1,47 +1,52 @@
 # Standard yaml file
-- sudo apt:
-    - update:
-    - upgrade: -y
-    - install:
-        - vim
-        - guake
-        - terminator
-        - git
-        - docker
-        - mercurial
-        - build-essential
-        - cmake
-        - gcc-5
-        - g++-5
-        - linuxdcpp
-        - tree
-        - zeal
-        - libgl1-mesa-dev-lts-wily
-        - shutter
-        - htop
-        - emacs
-        - gparted
-        - vlc
-        - vlc-nox
-        - filezilla
-        - python3
-        - python3-pip
-        - python-pip
-        - python-virtualenv
-        - python3-virtualenv
-        - python-yaml
-        - python3-yaml
-- sudo -H pip:
-    - install:
-        - --upgrade:
-            - pip
-            - pyYAML
-            - wakatime
-- sudo -H pip3:
-    - install:
-        - --upgrade:
-            - pip
-            - pyYAML
+# - sudo
+#     - add-apt-repository:
+#         - ppa:zeal-developers/ppa  # for zeal
+#     - apt:
+#         - update:
+#         - upgrade: -y
+#         - install:
+#             - build-essential
+#             - cmake
+#             - clang
+#             - docker
+#             - emacs
+#             - expect
+#             - filezilla
+#             - git
+#             - gparted
+#             - guake
+#             - gcc-5
+#             - g++-5
+#             - htop
+#             - libgl1-mesa-dev-lts-wily # it is a laptop dependency!!
+#             - linuxdcpp
+#             - mercurial
+#             - shutter
+#             - terminator
+#             - tree
+#             - vlc
+#             - vlc-nox
+#             - vim
+#             - zeal
+#             - python3
+#             - python3-pip
+#             - python-pip
+#             - python-virtualenv
+#             - python3-virtualenv
+#             - python-yaml
+#             - python3-yaml
+# - sudo -H pip:
+#     - install:
+#         - --upgrade:
+#             - pip
+#             - pyYAML
+#             - wakatime
+# - sudo -H pip3:
+#     - install:
+#         - --upgrade:
+#             - pip
+#             - pyYAML
 - virtualenv:
     - -p:
         - /usr/bin/python2 ~/py2
@@ -49,3 +54,6 @@
 - echo '\nPY_PATH=$PYTHONPATH\nexport PY_PATH\nunset PYTHONPATH' >>:
     - ~/py2/bin/activate
     - ~/py3/bin/activate
+
+# for dual boot
+# - sudo echo "\n# Set UTC=yes if your hardware clock is set to UTC (GMT)\nUTC=no" >> /etc/rcS
