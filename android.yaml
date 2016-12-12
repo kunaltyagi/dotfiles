@@ -1,0 +1,23 @@
+- sudo apt install:
+    - libc6:i386
+    - libncurses5:i386
+    - libstdc++6:i386
+    - lib32z1
+    - libbz2-1.0:i386
+    - qemu-kvm
+    - libvirt-bin
+    - ubuntu-vm-builder
+    - bridge-utils
+      # for java
+- sudo:
+    - mkdir -p /usr/local/java
+      # assuming jre and jdk are installed and 111 is the version
+    - update-alternatives:
+        - --install:
+            - "/usr/bin/java" "java" "/usr/local/java/jdk1.8.0_111/bin/java" 1
+            - "/usr/bin/javac" "javac" "/usr/local/java/jdk1.8.0_111/bin/javac" 1
+            - "/usr/bin/javaws" "javaws" "/usr/local/java/jdk1.8.0_111/bin/javaws" 1
+    - --set:
+        - java /usr/local/java/jdk1.8.0_111/bin/java
+        - javac /usr/local/java/jdk1.8.0_111/bin/javac
+        - javaws /usr/local/java/jdk1.8.0_111/bin/javaws

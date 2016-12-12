@@ -35,7 +35,8 @@ export GAZEBO_RESOURCE_PATH=${GAZEBO_RESOURCE_PATH}${GZ_HOME}:$DDP_DIR/models
 #export PATH="/usr/local/heroku/bin:$PATH"
 
 # Android Studio
-#export PATH=$PATH:/opt/android-studio/bin
+export PATH=$PATH:$HOME/local/android-studio/bin
+export PATH=$PATH:$HOME/local/Android
 
 #Vmail
 #export VMAIL_HTML_PART_READER='elinks -dump'
@@ -52,9 +53,9 @@ export GAZEBO_RESOURCE_PATH=${GAZEBO_RESOURCE_PATH}${GZ_HOME}:$DDP_DIR/models
 #export CLASSPATH=".:/usr/local/lib/antlr-4.2-complete.jar:$CLASSPATH"
 
 #JAVA
-#export JAVA_HOME=/usr/local/java/jdk1.8.0_11
-#export JRE_HOME=/usr/local/java/jre1.8.0_11
-#export PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin
+export JAVA_HOME=/usr/local/java/jdk1.8.0_111
+export JRE_HOME=/usr/local/java/jre1.8.0_111
+export PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin
 
 #LD_PATH error remover
 #export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib:/usr/lib
