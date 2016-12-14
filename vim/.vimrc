@@ -81,6 +81,7 @@ Plugin 'chrisbra/csv.vim'
 " Plugin 'klen/python-mode' till i switch off its no wrap
 " Color coding
 " Plugin 'jeaye/color_coded'
+Plugin 'vimwiki/vimwiki'
 
 " gundo, easy motion
 
@@ -226,6 +227,7 @@ augroup End
 let g:airline_theme='bubblegum'
 let g:airline#extensions#tabline#enabled = 1 " Enable the list of buffers
 let g:airline#extensions#tabline#fnamemod = ':t' " Show just the filename
+let g:airline#extensions#virtualenv#enabled = 1
 " Enable status
 set noruler
 set laststatus=2
@@ -289,6 +291,7 @@ set lazyredraw
 set wrapmargin=8
 set ruler
 set number
+set encoding=utf-8
 set nocursorline        " No to Highlight cursor line
 set showcmd             " Show (partial) command in status line.
 set showmatch           " Show matching brackets.
