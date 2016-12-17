@@ -1,5 +1,5 @@
 # Standard yaml file
-- sudo
+- sudo:
     - add-apt-repository:
         - ppa:zeal-developers/ppa  # for zeal
     - apt:
@@ -9,9 +9,10 @@
             - build-essential
             - cmake
             - clang
-            - docker
+            - docker.io
             - emacs
             - expect
+            - exuberant-ctags
             - filezilla
             - git
             - gparted
@@ -37,6 +38,7 @@
             - python3-virtualenv
             - python-yaml
             - python3-yaml
+    - usermod -aG docker `whoami`
 - sudo -H pip:
     - install:
         - --upgrade:
