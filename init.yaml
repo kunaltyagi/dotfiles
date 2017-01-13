@@ -9,23 +9,37 @@
             - build-essential
             - cmake
             - clang
+            - darktable
+            - dict
+            - dictd
+            - dict-gcide
+            - dict-wn
+            - dict-devil
+            - dict-moby-thesaurus
+            - diodon
             - docker.io
             - emacs
+            - espeak
             - expect
             - exuberant-ctags
             - filezilla
+            - gimp
             - git
             - gparted
             - guake
             - gcc-5
             - g++-5
+            - haskell-platform
             - htop
             - httrack
+            - kdenlive
             - libgl1-mesa-dev-lts-wily # it is a laptop dependency!!
             - linuxdcpp
             - mercurial
             - shutter
+            - synapse
             - terminator
+            - texstudio
             - tree
             - vlc
             - vlc-nox

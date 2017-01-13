@@ -21,6 +21,13 @@ function cd()
     builtin cd $@
     PATH=${PATH%:*}:$PWD
 }
+function define
+{
+    # espeak for the pronunciation audible output and phonetic alphabet string
+    echo "Phoneme mnemonics: $(espeak -ven-uk-rp -x -s 120 "$1" 2> /dev/null)"
+    # dict - the client for the dictionary server
+    dict "$1"       
+}
 notify_new()
 {
 #    $@ && notify-send -i face-smile "Done. And a success" || notify-send -i face-embarrassed "Oops. Was it supposed to happen??";

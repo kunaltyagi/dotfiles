@@ -71,3 +71,6 @@ export PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin
 
 # wrapper.py
 eval "$(register-python-argcomplete wrapper.py)"
+
+export TLMHOST=@license.iitb.ac.in
+export TECHOME=/usr/local/tecplot
