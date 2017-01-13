@@ -1,0 +1,30 @@
+- sudo:
+    - apt:
+        - install:
+            - apache2
+            - libapache2-mod-php
+            - mysql-server
+            - php
+            - php-mysql
+            - php-mcrypt
+    - mysqld --initialize
+    - mysql_secure_installation
+    - apt:
+        - install:
+            - phpmyadmin
+            - apache2-utils
+# This needs to be manually done
+    - echo 'Include /etc/phpmyadmin/apache.conf' >> /etc/apache2/apache2.conf
+
+# In /etc/phpmyadmin/apache.conf (ignore ```)
+# Inside ```<Directory /usr/share/phpmyadmin>```
+# after ```DirectoryIndex index.php``` add:
+# ```AllowOverride All```
+
+# In /usr/share/phpmyadmin/.htaccess, add
+# AuthType Basic
+# AuthName "Restricted Files"
+# AuthUserFile /etc/apache2/.phpmyadmin.htpasswd
+# Require valid-user
+
+# sudo htpasswd -c /etc/apache2/.phpmyadmin.htpasswd root

@@ -6,6 +6,7 @@
         - update:
         - upgrade: -y
         - install:
+            - apache2
             - build-essential
             - cmake
             - clang
@@ -36,6 +37,8 @@
             - libgl1-mesa-dev-lts-wily # it is a laptop dependency!!
             - linuxdcpp
             - mercurial
+            - mysql-server
+            - php-mysql
             - shutter
             - synapse
             - terminator

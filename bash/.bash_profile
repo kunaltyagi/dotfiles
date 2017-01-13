@@ -74,3 +74,6 @@ eval "$(register-python-argcomplete wrapper.py)"
 
 export TLMHOST=@license.iitb.ac.in
 export TECHOME=/usr/local/tecplot
+
+# npm
+export PATH=~/.npm-global/bin:$PATH
