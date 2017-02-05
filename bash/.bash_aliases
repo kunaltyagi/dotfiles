@@ -57,12 +57,6 @@ study_mode()
     cd ~/workspace/studies;
     if [ $x ]; then cd $x; fi;
 }
-flash()
-{
-    while true;
-        do printf \\e[?5h; sleep 0.1; printf \\e[?5l; read -s -n1 -t1 && break;
-    done;
-}
 
 # SSH auto-completion based on entries in known_hosts.
 if [[ -e ~/.ssh/known_hosts ]]; then
@@ -84,6 +78,15 @@ alias rotate="xrandr --output eDP1 --rotate $@"  # normal, inverted, right, left
 # alias mv="mv -i"
 # alias cp="cp -i"
 
+# alias fuck='sudo $(history -p \!\!)' #F this S***, am going sudo
+eval $(thefuck --alias)
+eval "$(hub alias -s)"
+hub_bash=~/workspace/open_source/hub/etc/hub.bash_completion.sh
+if [ -f $hub_bash ]; then
+    . $hub_bash
+fi
+
+alias tecplot="/usr/local/tecplot/bin/tecplot"
 alias ]='xdg-open $@'
 alias tags_generate="ctags-exuberant -R ."
 alias internet='python2 ~/workspace/dotfiles/python/iitblogin.py'
@@ -107,7 +110,7 @@ alias check_temp="sudo sensors ; sudo hddtemp /dev/sda"
 alias kz="kill %%"
 alias random_alpha="apg"
 alias shortcut="sudo ln -s $@"
-#alias matlab="/usr/local/MATLAB/R2013a/bin/matlab"
+alias matlab="/usr/local/MATLAB/R2016b/bin/matlab"
 alias temperature="sensors|tail -n +3|head -n 1|awk '{print $4}'|grep -o -E [0-9]+\.[0-9]+|head -n 1"
 alias study="study_mode"
 alias delete="trash-rm"
@@ -123,17 +126,15 @@ alias antlr4='java -jar /usr/local/lib/antlr-4.2-complete.jar'
 alias grun='java org.antlr.v4.runtime.misc.TestRig'
 alias gre='grep -nHT --color $@'
 alias py='python'
-alias py2='python2'
-alias py3='python3'
+alias py2='source ~/py2/bin/activate; python2'
+alias py3='source ~/py3/bin/activate; python3'
 alias ipy='ipython notebook --pylab=inline'
 alias iso_mount='sudo mount -t iso9660 -o ro $@ /media/iso'
 alias pathogen_install="mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim"
 alias copy='xclip -selection clipboard'
 alias clint='python /home/kunaltyagi/catkin_ws/src/robosub/auv_utils/src/lint/cpp/cpplint.py $@'
 alias filesize="stat -f '%z bytes'"
-alias fuck='sudo $(history -p \!\!)' #F this S***, am going sudo
 alias mendeley='~/local/mendeley/bin/mendeleydesktop'
-alias tecplot='/usr/local/tecplot350ex/bin/tec360'
 alias robosync='x=$PWD; roscd robosub; git fetch origin; cd $x'
 alias em='emacs -nw'
 
@@ -179,4 +180,10 @@ azsdcd_tmp_errorProne()
         fi
     done
 
+}
+flash()
+{
+    while true;
+        do printf \\e[?5h; sleep 0.1; printf \\e[?5l; read -s -n1 -t1 && break;
+    done;
 }

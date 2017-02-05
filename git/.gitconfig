@@ -43,9 +43,10 @@
 [credential]
     helper = cache
 [help]
-    autocorrect = 0
+	autocorrect = 15
 [merge]
     log = true
+    conflictStyle = "diff3"
 [push]
     default = simple
 [rerere]

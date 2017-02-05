@@ -1,3 +1,6 @@
+# history
+export HISTTIMEFORMAT="%d/%m/%y %T "
+
 # GCC color
 export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
@@ -12,8 +15,11 @@ source ~/py2/bin/activate
 source ~/ros_ws/devel/setup.bash
 export PYTHONPATH=$PYTHONPATH:/usr/lib/python2.7/dist-packages
 
-#export ROS_HOSTNAME=localhost
-#export ROS_MASTER_URI=http://localhost:11311
+export ROS_HOSTNAME=localhost
+export ROS_MASTER_URI=http://localhost:11311
+# export ROS_HOSTNAME=192.168.3.101
+# export ROS_IP=192.168.3.101
+# export ROS_MASTER_URI=http://192.168.3.4:11311
 # for indigo
 # source ~/catkin_ws/devel/setup.bash
 #source /usr/share/gazebo/setup.sh
@@ -61,8 +67,8 @@ export PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin
 #export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib:/usr/lib
 
 #CUDA custom path
-#export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-7.5/lib64
-#export PATH=$PATH:/usr/local/cuda-7.5/bin
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64
+export PATH=$PATH:/usr/local/cuda/bin
 #export LD_LIBRARY_PATH=$HOME/local/opencv3:$LD_LIBRARY_PATH
 
 # Boost custom path
@@ -77,3 +83,9 @@ export TECHOME=/usr/local/tecplot
 
 # npm
 export PATH=~/.npm-global/bin:$PATH
+
+# grails
+# source $HOME/.sdkman/bin/sdkman-init.sh
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="$HOME/.sdkman"
+[[ -s "SDKMAN_DIR/.sdkman/bin/sdkman-init.sh" ]] && source "$SDKMAN_DIR/bin/sdkman-init.sh"

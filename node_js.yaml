@@ -7,3 +7,8 @@
 - npm config set prefix '~/.npm-global'
 # - export PATH=~/.npm-global/bin:$PATH
 - npm install -g jshint
+
+# for grails
+- curl -s "https://get.sdkman.io" | bash
+# source "$HOME/.sdkman/bin/sdkman-init.sh"
+- sdk install grails

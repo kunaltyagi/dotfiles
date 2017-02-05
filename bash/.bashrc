@@ -136,16 +136,15 @@ else
     export PS1='\u@\h:\W$(__git_ps1 " (%s)")\$ '
 fi
 
-#put all the exports in the bash profile
-
-if [ -f ~/.bash_profile ]; then
-    . ~/.bash_profile
-fi
-
-# for ROBOSUB
-
+# for unlimited stack size
 ulimit  -c  unlimited
 ulimit  -s  unlimited
 
 # for colorful man pages, use most instead of less :P
 #export PAGER="/usr/bin/most -s"
+
+#put all the exports in the bash profile
+
+if [ -f ~/.bash_profile ]; then
+    . ~/.bash_profile
+fi

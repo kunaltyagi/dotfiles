@@ -4,3 +4,8 @@
         - numpy
         - scipy
         - jupyter
+        - sphinx
+        - ReText
+        - markdown
+        - docutils
+        - enchant
