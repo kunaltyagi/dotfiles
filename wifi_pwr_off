@@ -1,0 +1,4 @@
+#! /bin/bash
+# /etc/pm/power.d/wifi_pwr_off
+# make it executable
+/sbin/iwconfig wlp6s0 power off
